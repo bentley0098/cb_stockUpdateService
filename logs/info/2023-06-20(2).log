@@ -1,0 +1,140 @@
+2023-06-20 11:07:27 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:07:36 - New data from Inventory-count-1.xlsx
+2023-06-20 11:07:46 - Completed Inventory Updates
+2023-06-20 11:08:07 - Updated Augmented Reality
+2023-06-20 11:09:58 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:10:08 - New data from Inventory-count-1.xlsx
+2023-06-20 11:10:18 - Completed Inventory Updates
+2023-06-20 11:10:39 - Updated Augmented Reality
+2023-06-20 11:13:31 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:13:36 - New data from Inventory-count-1.xlsx
+2023-06-20 11:13:46 - Completed Inventory Updates
+2023-06-20 11:15:07 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:15:16 - New data from Inventory-count-1.xlsx
+2023-06-20 11:15:54 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:16:05 - New data from Inventory-count-1.xlsx
+2023-06-20 11:16:41 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:16:45 - New data from input_1.xlsx
+2023-06-20 11:16:46 - Completed Inventory Updates
+2023-06-20 11:17:30 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:17:37 - New data from input_1.xlsx
+2023-06-20 11:17:39 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 11:17:40 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:17:40 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:17:41 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:17:42 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:17:43 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:17:44 - Completed Inventory Updates
+2023-06-20 11:18:21 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:18:28 - New data from Inventory-count-1.xlsx
+2023-06-20 11:20:07 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:20:38 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:20:44 - New data from input_1.xlsx
+2023-06-20 11:20:46 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:20:47 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:20:48 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:20:49 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:20:49 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:20:50 - Completed Inventory Updates
+2023-06-20 11:21:10 - Updated Augmented Reality
+2023-06-20 11:21:59 - Updated Duravit 15% Off Promotion
+2023-06-20 11:24:40 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:24:45 - New data from input_1.xlsx
+2023-06-20 11:24:46 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:24:47 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:24:48 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:24:49 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:24:50 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:24:50 - Completed Inventory Updates
+2023-06-20 11:25:11 - Updated Augmented Reality
+2023-06-20 11:25:23 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:25:38 - New data from input_1.xlsx
+2023-06-20 11:25:39 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:25:40 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:25:41 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:25:42 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:25:43 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:25:43 - Completed Inventory Updates
+2023-06-20 11:26:06 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:26:12 - New data from input_1.xlsx
+2023-06-20 11:26:14 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:26:15 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:26:16 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:26:16 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:26:17 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:26:18 - Completed Inventory Updates
+2023-06-20 11:26:39 - Updated Augmented Reality
+2023-06-20 11:26:53 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:26:55 - New data from input_1.xlsx
+2023-06-20 11:26:57 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:26:57 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:26:58 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:26:59 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:27:00 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:27:01 - Completed Inventory Updates
+2023-06-20 11:27:21 - Updated Augmented Reality
+2023-06-20 11:27:49 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:27:57 - New data from input_1.xlsx
+2023-06-20 11:27:58 - Completed Inventory Updates
+2023-06-20 11:28:19 - Updated Augmented Reality
+2023-06-20 11:30:36 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:30:44 - New data from input_1.xlsx
+2023-06-20 11:30:45 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:30:46 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:30:47 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:30:48 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:30:49 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:32:13 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:32:17 - New data from Inventory-count-1.xlsx
+2023-06-20 11:34:35 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:34:37 - New data from Inventory-count-1.xlsx
+2023-06-20 11:35:29 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:35:36 - New data from Inventory-count-1.xlsx
+2023-06-20 11:36:44 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:37:01 - New data from Inventory-count-1.xlsx
+2023-06-20 11:39:28 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:39:37 - New data from Inventory-count-1.xlsx
+2023-06-20 11:42:41 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:42:51 - New data from Inventory-count-1.xlsx
+2023-06-20 11:45:00 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:45:05 - New data from input_1.xlsx
+2023-06-20 11:45:06 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:45:07 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:45:08 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:45:09 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:45:10 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:45:11 - Updated Product undefined  -  null
+2023-06-20 11:45:11 - Completed Inventory Updates
+2023-06-20 11:50:06 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:50:17 - New data from input_1.xlsx
+2023-06-20 11:50:29 - New data from input_1.xlsx
+2023-06-20 11:51:56 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:52:04 - New data from input_1.xlsx
+2023-06-20 11:52:06 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:52:07 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:52:08 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:52:09 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:52:09 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:52:10 - Completed Inventory Updates
+2023-06-20 11:53:15 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:53:23 - New data from input_1.xlsx
+2023-06-20 11:53:24 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:53:25 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:53:26 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:53:27 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:53:28 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:53:28 - Completed Inventory Updates
+2023-06-20 11:53:49 - Updated Augmented Reality
+2023-06-20 11:53:54 - New data from input_1.xlsx
+2023-06-20 11:53:56 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 11:53:57 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 11:53:57 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 11:53:58 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 11:53:59 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 11:54:00 - Completed Inventory Updates
+2023-06-20 11:54:34 - ****************************** Starting Stock Updater ******************************
+2023-06-20 11:54:52 - New data from Inventory-count-1.xlsx
+2023-06-20 11:54:57 - Updated Product 4310  -  {"inventory_item_id":42091714674732,"location_id":61292740652,"available":10,"updated_at":"2023-06-20T11:54:57+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091714674732"}
+2023-06-20 11:54:58 - Updated Product 6100  -  {"inventory_item_id":42091458330668,"location_id":61292740652,"available":11,"updated_at":"2023-06-20T11:54:58+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091458330668"}
+2023-06-20 11:54:59 - Updated Product 6101  -  {"inventory_item_id":42092878102572,"location_id":61292740652,"available":25,"updated_at":"2023-06-20T11:54:59+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092878102572"}
+2023-06-20 11:55:00 - Updated Product 10082  -  {"inventory_item_id":42092881641516,"location_id":61292740652,"available":1,"updated_at":"2023-06-05T13:06:36+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092881641516"}

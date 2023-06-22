@@ -1,0 +1,14 @@
+2023-06-22 10:00:47 - Error in shopifyApi - updateInventoryLevel:  RequestError: write EPROTO 17848:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+
+2023-06-22 10:18:39 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 400 (Bad Request)
+2023-06-22 10:34:48 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-22 10:44:54 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-22 10:44:54 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-22 10:44:55 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-22 10:44:55 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-22 10:46:43 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-22 10:46:45 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-22 10:48:19 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-22 10:48:21 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-22 11:32:52 - Error occured in 'updateCombinedSkus': - TypeError: Assignment to constant variable.
+2023-06-22 14:03:55 - Error adding backorder tag:  TypeError: Cannot read properties of undefined (reading 'title')

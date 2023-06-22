@@ -1,0 +1,8 @@
+2023-06-20 15:32:36 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 400 (Bad Request)
+2023-06-20 15:37:19 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-20 15:37:19 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-20 15:37:34 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-20 16:55:45 - Error in shopifyApi - makeProductPlacementGraphQlCall:  HTTPError: Response code 504 (Gateway Timeout)
+2023-06-20 16:55:45 - Error in Collection Update: HTTPError: Response code 504 (Gateway Timeout)
+2023-06-20 16:59:38 - Error in shopifyApi - getCollection:  HTTPError: Response code 404 (Not Found)
+2023-06-20 16:59:38 - Error in Collection Update: HTTPError: Response code 404 (Not Found)

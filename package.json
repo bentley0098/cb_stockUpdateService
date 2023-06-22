@@ -1,0 +1,20 @@
+{
+  "name": "stock-updater-service",
+  "version": "1.0.0",
+  "description": "Updates Stock on cassbrothers.com.au",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "author": "Gavin Bentley",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "shopify-api-node": "^3.12.5",
+    "winston": "^3.9.0",
+    "xlsx": "^0.18.5"
+  }
+}

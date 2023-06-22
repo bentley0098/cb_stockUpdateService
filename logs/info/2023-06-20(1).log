@@ -1,0 +1,2028 @@
+2023-06-20 07:12:18 - ****************************** Starting Stock Updater ******************************
+2023-06-20 07:12:43 - New data from input_1.xlsx
+2023-06-20 07:13:16 - New data from input_1.xlsx
+2023-06-20 07:13:18 - New data from input_1.xlsx
+2023-06-20 07:13:29 - ****************************** Starting Stock Updater ******************************
+2023-06-20 07:13:38 - New data from input_1.xlsx
+2023-06-20 07:14:24 - ****************************** Starting Stock Updater ******************************
+2023-06-20 07:14:32 - New data from input_1.xlsx
+2023-06-20 07:14:34 - New data from input_1.xlsx
+2023-06-20 07:44:20 - ****************************** Starting Stock Updater ******************************
+2023-06-20 07:44:27 - New data from input_1.xlsx
+2023-06-20 07:52:17 - ****************************** Starting Stock Updater ******************************
+2023-06-20 07:52:39 - New data from input_1.xlsx
+2023-06-20 08:08:33 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:08:54 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:10:15 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:10:53 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:11:50 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:12:47 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:15:48 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:17:34 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:19:03 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:21:32 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:21:38 - New data from input_1.xlsx
+2023-06-20 08:22:19 - New data from input_1.xlsx
+2023-06-20 08:22:55 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:23:25 - New data from input_1.xlsx
+2023-06-20 08:25:41 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:25:50 - New data from input_1.xlsx
+2023-06-20 08:25:50 - New data from input_1.xlsx
+2023-06-20 08:25:50 - New data from input_1.xlsx
+2023-06-20 08:25:50 - New data from input_1.xlsx
+2023-06-20 08:25:53 - Updated Product  -  [object Object]
+2023-06-20 08:25:54 - Updated Product  -  [object Object]
+2023-06-20 08:25:56 - Updated Product  -  [object Object]
+2023-06-20 08:25:57 - Updated Product  -  [object Object]
+2023-06-20 08:25:58 - Updated Product  -  [object Object]
+2023-06-20 08:26:32 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:26:40 - New data from input_1.xlsx
+2023-06-20 08:26:40 - New data from input_1.xlsx
+2023-06-20 08:26:40 - New data from input_1.xlsx
+2023-06-20 08:26:40 - New data from input_1.xlsx
+2023-06-20 08:26:42 - Updated Product  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:26:43 - Updated Product  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:26:45 - Updated Product  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 08:26:46 - Updated Product  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 08:26:48 - Updated Product  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 08:27:24 - New data from input_1.xlsx
+2023-06-20 08:27:24 - New data from input_1.xlsx
+2023-06-20 08:27:24 - New data from input_1.xlsx
+2023-06-20 08:27:24 - New data from input_1.xlsx
+2023-06-20 08:27:26 - Updated Product  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:27:28 - Updated Product  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:28:58 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:29:17 - New data from input_1.xlsx
+2023-06-20 08:29:17 - New data from input_1.xlsx
+2023-06-20 08:29:17 - New data from input_1.xlsx
+2023-06-20 08:29:17 - New data from input_1.xlsx
+2023-06-20 08:29:20 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:29:21 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:29:22 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 08:29:24 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 08:29:25 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 08:29:55 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:30:21 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:30:23 - New data from input_1.xlsx
+2023-06-20 08:30:23 - New data from input_1.xlsx
+2023-06-20 08:30:23 - New data from input_1.xlsx
+2023-06-20 08:30:23 - New data from input_1.xlsx
+2023-06-20 08:30:25 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:30:27 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:30:28 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 08:30:29 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 08:30:31 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 08:31:20 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:31:29 - New data from input_1.xlsx
+2023-06-20 08:31:29 - New data from input_1.xlsx
+2023-06-20 08:31:29 - New data from input_1.xlsx
+2023-06-20 08:31:29 - New data from input_1.xlsx
+2023-06-20 08:31:32 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:31:33 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:31:35 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 08:31:36 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 08:31:37 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 08:32:04 - New data from input_1.xlsx
+2023-06-20 08:32:04 - New data from input_1.xlsx
+2023-06-20 08:32:04 - New data from input_1.xlsx
+2023-06-20 08:32:04 - New data from input_1.xlsx
+2023-06-20 08:32:06 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:32:08 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:32:09 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 08:32:10 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 08:32:12 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 08:32:13 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 08:35:26 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:35:52 - New data from input_1.xlsx
+2023-06-20 08:35:54 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:35:55 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:35:56 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 08:35:57 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 08:35:58 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 08:35:58 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 08:35:59 - Completed Inventory Updates
+2023-06-20 08:36:06 - New data from input_1.xlsx
+2023-06-20 08:36:08 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:36:09 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:36:10 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 08:36:10 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 08:36:11 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 08:36:12 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 08:36:13 - Completed Inventory Updates
+2023-06-20 08:36:57 - ****************************** Starting Stock Updater ******************************
+2023-06-20 08:37:01 - New data from input_1.xlsx
+2023-06-20 08:37:02 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 08:37:03 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 08:37:04 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 08:37:05 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 08:37:06 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 08:37:06 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 08:37:07 - Completed Inventory Updates
+2023-06-20 09:36:34 - ****************************** Starting Stock Updater ******************************
+2023-06-20 09:36:39 - New data from input_1.xlsx
+2023-06-20 09:36:40 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 09:36:41 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 09:36:42 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 09:36:43 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 09:36:44 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 09:36:45 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 09:36:45 - Completed Inventory Updates
+2023-06-20 09:38:45 - ****************************** Starting Stock Updater ******************************
+2023-06-20 09:38:52 - New data from input_1.xlsx
+2023-06-20 09:38:54 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 09:38:55 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 09:38:56 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 09:38:57 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 09:38:57 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 09:38:58 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 09:38:59 - Completed Inventory Updates
+2023-06-20 09:39:27 - ****************************** Starting Stock Updater ******************************
+2023-06-20 09:39:32 - New data from input_1.xlsx
+2023-06-20 09:39:34 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 09:39:35 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 09:39:36 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 09:39:37 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 09:39:38 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 09:39:39 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 09:39:39 - Completed Inventory Updates
+2023-06-20 09:46:55 - ****************************** Starting Stock Updater ******************************
+2023-06-20 09:47:01 - New data from input_1.xlsx
+2023-06-20 09:47:02 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 09:47:03 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 09:47:04 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 09:47:05 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 09:47:06 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 09:47:07 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 09:47:07 - Completed Inventory Updates
+2023-06-20 09:49:20 - ****************************** Starting Stock Updater ******************************
+2023-06-20 09:49:33 - New data from input_1.xlsx
+2023-06-20 09:49:35 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 09:49:36 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 09:49:37 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 09:49:38 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 09:49:38 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 09:49:39 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 09:49:40 - Completed Inventory Updates
+2023-06-20 09:50:16 - ****************************** Starting Stock Updater ******************************
+2023-06-20 09:50:51 - ****************************** Starting Stock Updater ******************************
+2023-06-20 09:50:54 - New data from input_1.xlsx
+2023-06-20 09:50:56 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 09:50:57 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 09:50:57 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 09:50:58 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 09:50:59 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 09:51:00 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 09:51:01 - Completed Inventory Updates
+2023-06-20 10:04:39 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:04:44 - New data from input_1.xlsx
+2023-06-20 10:04:46 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:04:47 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:04:48 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:04:49 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:04:49 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:04:50 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:04:51 - Completed Inventory Updates
+2023-06-20 10:04:51 - Updating Augmented Reality
+2023-06-20 10:04:51 - Updating Duravit 15% Off Promotion
+2023-06-20 10:04:51 - Updating Thermogroup
+2023-06-20 10:04:51 - Updating Argent Smart Toilet
+2023-06-20 10:04:51 - Updating Coway Smart Toilet
+2023-06-20 10:04:51 - Updating Duravit Smart Toilets
+2023-06-20 10:04:51 - Updating The Bidet Shop Smart Toilets
+2023-06-20 10:04:51 - Updating Gallaria Smart Toilets
+2023-06-20 10:04:51 - Updating Throne Smart Toilets
+2023-06-20 10:04:51 - Updating Toto Smart Toilet
+2023-06-20 10:04:51 - Updating Franke Bonus Accessory Offer
+2023-06-20 10:04:51 - Updating Zip Residential Taps
+2023-06-20 10:04:51 - Updating Commercial Zip Taps
+2023-06-20 10:04:51 - Updating Mixx Tapware
+2023-06-20 10:04:51 - Updating K R Lucas
+2023-06-20 10:04:51 - Updating Under $10
+2023-06-20 10:04:51 - Updating Over $10
+2023-06-20 10:04:51 - Updating BTH
+2023-06-20 10:04:51 - Updating Lauxes
+2023-06-20 10:04:51 - Updating AquaLigna
+2023-06-20 10:04:51 - Updating cassbrothers
+2023-06-20 10:04:51 - Updating Rectorseal
+2023-06-20 10:04:51 - Updating Harmony Bathroomware
+2023-06-20 10:04:51 - Updating DADOquartz
+2023-06-20 10:04:51 - Updating Millennium
+2023-06-20 10:04:51 - Updating RMC
+2023-06-20 10:04:51 - Updating ADP
+2023-06-20 10:04:51 - Updating TECE
+2023-06-20 10:04:51 - Updating GRO Agencies
+2023-06-20 10:04:51 - Updating Cee Jay
+2023-06-20 10:04:51 - Updating Globo
+2023-06-20 10:04:51 - Updating Gareth Asthon
+2023-06-20 10:04:51 - Updating Villeroy & Boch Bathroom Tapware & Accessories Promotion
+2023-06-20 10:04:51 - Updating SHAWS
+2023-06-20 10:04:51 - Updating TOTO Spring Sale 2022
+2023-06-20 10:04:51 - Updating Fonts
+2023-06-20 10:04:51 - Updating Billi
+2023-06-20 10:04:51 - Updating Zip
+2023-06-20 10:04:51 - Updating Puretec
+2023-06-20 10:04:51 - Updating Insinkerator
+2023-06-20 10:04:51 - Updating Fienza
+2023-06-20 10:04:51 - Updating Shower Arms
+2023-06-20 10:04:51 - Updating In-Wall Toilets
+2023-06-20 10:04:51 - Updating Toilet Packages
+2023-06-20 10:04:51 - Updating Bathroom Taps
+2023-06-20 10:04:51 - Updating Basin Taps
+2023-06-20 10:04:51 - Updating Bath Taps
+2023-06-20 10:04:51 - Updating Basin Mixers
+2023-06-20 10:04:51 - Updating Floorstanding Tapware
+2023-06-20 10:04:51 - Updating Bidet Tapware
+2023-06-20 10:04:51 - Updating Shower & Bath Mixers
+2023-06-20 10:04:51 - Updating Shower Mixers
+2023-06-20 10:04:51 - Updating Turner Hastings Curated Collection
+2023-06-20 10:04:51 - Updating Milu Odourless Accessories
+2023-06-20 10:04:51 - Updating Caroma Urbane II Invisi Series Flush Plates
+2023-06-20 10:04:51 - Updating Exclusive Collections
+2023-06-20 10:04:51 - Updating Villeroy & Boch Stratos Collection
+2023-06-20 10:04:51 - Updating Timberline X Shaynna Blaze Collection
+2023-06-20 10:04:51 - Updating Stone Baths
+2023-06-20 10:04:51 - Updating Back To Wall Baths
+2023-06-20 10:04:51 - Updating Heated Towel Rails
+2023-06-20 10:04:51 - Updating Zip Free Installation Special
+2023-06-20 10:04:51 - Updating Basin Mixer Sets
+2023-06-20 10:04:51 - Updating Basin Wall Mixers
+2023-06-20 10:04:51 - Updating Black Basin Mixers
+2023-06-20 10:04:51 - Updating Basin Spouts
+2023-06-20 10:04:51 - Updating Black Basin Spouts
+2023-06-20 10:04:51 - Updating 3 Piece Basin Tap Set
+2023-06-20 10:04:51 - Updating Basin Tap Sets
+2023-06-20 10:04:51 - Updating Black Basin Taps
+2023-06-20 10:04:51 - Updating Black Basin Tap Sets
+2023-06-20 10:04:51 - Updating Wall Mounted Basin Taps
+2023-06-20 10:04:51 - Updating Above Counter Stone Basins
+2023-06-20 10:04:51 - Updating Black Basin Mixers
+2023-06-20 10:04:51 - Updating Concrete Basins
+2023-06-20 10:04:51 - Updating Oval Above Counter Basins
+2023-06-20 10:04:51 - Updating Oval Basins
+2023-06-20 10:04:51 - Updating Oval Inset Basins
+2023-06-20 10:04:51 - Updating Oval Semi Recessed Basin
+2023-06-20 10:04:51 - Updating Oval Under Counter Basins
+2023-06-20 10:04:51 - Updating Oval Wall Hung Basins
+2023-06-20 10:04:51 - Updating Recessed Basins
+2023-06-20 10:04:51 - Updating Round Basins
+2023-06-20 10:04:51 - Updating Stone Basins
+2023-06-20 10:04:51 - Updating Bath Mixers
+2023-06-20 10:04:51 - Updating Bath Mixers with Hand Shower
+2023-06-20 10:04:51 - Updating Floor Mounted Mixers
+2023-06-20 10:04:51 - Updating Floor Mounted Shower Mixers
+2023-06-20 10:04:51 - Updating Bath Spouts
+2023-06-20 10:04:51 - Updating Black Bath Spouts
+2023-06-20 10:04:51 - Updating Swivel Bath Spout
+2023-06-20 10:04:51 - Updating Freestanding Bath Mixers
+2023-06-20 10:04:51 - Updating Bath Taps
+2023-06-20 10:04:51 - Updating Bath Tap Sets
+2023-06-20 10:04:51 - Updating Bath Taps with Hand Shower
+2023-06-20 10:04:51 - Updating Brass Bathroom Tapware
+2023-06-20 10:04:51 - Updating Wall Mounted Bath Taps
+2023-06-20 10:04:51 - Updating Freestanding Baths 1500mm
+2023-06-20 10:04:51 - Updating Black Bathroom Tapware
+2023-06-20 10:04:51 - Updating Back to Wall Baths
+2023-06-20 10:04:51 - Updating Chrome Bathroom Tapware
+2023-06-20 10:04:51 - Updating Gold Bathroom Tapware
+2023-06-20 10:04:51 - Updating Acrylic Baths
+2023-06-20 10:04:51 - Updating Porcelain Baths
+2023-06-20 10:04:51 - Updating Black Baths
+2023-06-20 10:04:51 - Updating Corner Baths
+2023-06-20 10:04:51 - Updating Oval Baths
+2023-06-20 10:04:51 - Updating Bidet Mixers
+2023-06-20 10:04:51 - Updating Round Baths
+2023-06-20 10:04:51 - Updating Square Baths
+2023-06-20 10:04:51 - Updating Stone Baths
+2023-06-20 10:04:51 - Updating Bidet Sprayers
+2023-06-20 10:04:51 - Updating In-Wall Cisterns
+2023-06-20 10:04:51 - Updating Bath Shower Diverters
+2023-06-20 10:04:51 - Updating Flush Buttons
+2023-06-20 10:04:51 - Updating Toilet Buttons
+2023-06-20 10:04:51 - Updating Black Flush Plates
+2023-06-20 10:04:51 - Updating 450mm Shaving Cabinets
+2023-06-20 10:04:51 - Updating 1200mm Shaving Cabinets
+2023-06-20 10:04:51 - Updating 600mm Shaving Cabinets
+2023-06-20 10:04:51 - Updating 750mm Shaving Cabinets
+2023-06-20 10:04:51 - Updating 900mm Shaving Cabinets
+2023-06-20 10:04:51 - Updating Mirrored Shaving Cabinets
+2023-06-20 10:04:51 - Updating Round Shaving Cabinets
+2023-06-20 10:04:51 - Updating Wooden Shaving Cabinets
+2023-06-20 10:04:51 - Updating Shower Sets
+2023-06-20 10:04:51 - Updating Shower Mixers
+2023-06-20 10:04:51 - Updating Oval Spa Baths
+2023-06-20 10:04:51 - Updating Bidet Seats
+2023-06-20 10:04:51 - Updating Decina Spa Baths
+2023-06-20 10:04:51 - Updating Rectangle Spa Baths
+2023-06-20 10:04:51 - Updating Wall Hung Toilets
+2023-06-20 10:04:51 - Updating Quick Release Toilet Seats
+2023-06-20 10:04:51 - Updating Soft Close Toilet Seats
+2023-06-20 10:04:51 - Updating Back to Wall Toilets
+2023-06-20 10:04:51 - Updating 600mm Bathroom Vanities
+2023-06-20 10:04:51 - Updating 1200mm Bathroom Vanities
+2023-06-20 10:04:51 - Updating 1500mm Bathroom Vanities
+2023-06-20 10:04:51 - Updating 1800mm Bathroom Vanities
+2023-06-20 10:04:51 - Updating 750mm Bathroom Vanities
+2023-06-20 10:04:51 - Updating 900mm Bathroom Vanities
+2023-06-20 10:04:51 - Updating Floating Vanities
+2023-06-20 10:04:51 - Updating Wall Hung Vanities
+2023-06-20 10:04:51 - Updating Double Bowl Vanities
+2023-06-20 10:04:51 - Updating Single Bowl Vanities
+2023-06-20 10:04:51 - Updating Oval Shaving Cabinets
+2023-06-20 10:04:51 - Updating 2 Basin Vanities
+2023-06-20 10:04:51 - Updating Wooden Vanities
+2023-06-20 10:04:51 - Updating Timber Vanities
+2023-06-20 10:04:51 - Updating Stratos Special
+2023-06-20 10:04:51 - Updating Stone Top Vanities
+2023-06-20 10:04:51 - Updating Villeroy & Boch Mixer Special
+2023-06-20 10:04:51 - Updating Verotti Smart Toilets
+2023-06-20 10:04:51 - Updating IXL Anaconda Promotion
+2023-06-20 10:04:51 - Updating Drinking Water
+2023-06-20 10:04:51 - Updating Tapware
+2023-06-20 10:04:51 - Updating Hand Held Bidet Sprayers
+2023-06-20 10:04:51 - Updating Bidet Taps
+2023-06-20 10:04:51 - Updating 3 Piece Taps
+2023-06-20 10:04:51 - Updating Mixers with Pull-Out Spray
+2023-06-20 10:04:51 - Updating Wall Top Assemblies
+2023-06-20 10:04:51 - Updating Temperature Control
+2023-06-20 10:04:51 - Updating Floorstanding Mixers
+2023-06-20 10:04:51 - Updating Floor Standing Bath Mixers
+2023-06-20 10:04:51 - Updating Bath Wall Mounted 3 Piece Taps
+2023-06-20 10:04:51 - Updating Bath Hob Mounted 3 Piece Taps
+2023-06-20 10:04:51 - Updating Boiling Water
+2023-06-20 10:04:51 - Updating Chilled Water
+2023-06-20 10:04:51 - Updating Bath & Shower Tapware
+2023-06-20 10:04:51 - Updating Boiling / Ambient
+2023-06-20 10:04:51 - Updating Sensor Taps
+2023-06-20 10:04:51 - Updating Boiling / Chilled
+2023-06-20 10:04:51 - Updating Chilled / Sparkling
+2023-06-20 10:04:51 - Updating Basin Hob Mounted 3 Piece Taps
+2023-06-20 10:04:51 - Updating Basin Wall Mounted 3 Piece Taps
+2023-06-20 10:04:51 - Updating Basin / Wall Top Assemblies
+2023-06-20 10:04:51 - Updating Chilled / Boiling / Sparkling
+2023-06-20 10:04:51 - Updating Basin Hob Mounted Mixers
+2023-06-20 10:04:51 - Updating Basin Tapware
+2023-06-20 10:04:51 - Updating Replacement Cartridges
+2023-06-20 10:04:51 - Updating Bathroom Basins
+2023-06-20 10:04:51 - Updating Wastes & Bottle Traps
+2023-06-20 10:04:51 - Updating Drinking Water Brands
+2023-06-20 10:04:51 - Updating BATHROOM BASINS
+2023-06-20 10:04:51 - Updating Showers
+2023-06-20 10:04:51 - Updating Shower Tapware
+2023-06-20 10:04:51 - Updating Shower Heads
+2023-06-20 10:04:51 - Updating Shower / Floor Wastes & Grates
+2023-06-20 10:04:51 - Updating Shower Spare Parts
+2023-06-20 10:04:51 - Updating Shower Hoses
+2023-06-20 10:04:51 - Updating Shower Wall Brackets
+2023-06-20 10:04:51 - Updating Oval Baths
+2023-06-20 10:04:51 - Updating Shower Accessories & Spare Parts
+2023-06-20 10:04:51 - Updating SHOWERS
+2023-06-20 10:04:51 - Updating Geometric Baths
+2023-06-20 10:04:51 - Updating Baths Less Than 1400
+2023-06-20 10:04:51 - Updating Square Baths
+2023-06-20 10:04:51 - Updating Round Baths
+2023-06-20 10:04:51 - Updating Rectangle Baths
+2023-06-20 10:04:51 - Updating Baths by Shape
+2023-06-20 10:04:51 - Updating Baths 1500 - 1599mm
+2023-06-20 10:04:51 - Updating Baths 1600 - 1699mm
+2023-06-20 10:04:51 - Updating Baths 1400 - 1499mm
+2023-06-20 10:04:51 - Updating Baths 1700 - 1799mm
+2023-06-20 10:04:51 - Updating Baths 1800 - 1899
+2023-06-20 10:04:51 - Updating Bath Tapware
+2023-06-20 10:04:51 - Updating Baths Above 1900mm
+2023-06-20 10:04:51 - Updating Legs & Leg Systems
+2023-06-20 10:04:51 - Updating Bath Single Panel Screens
+2023-06-20 10:04:51 - Updating Bath Double Panel Screens
+2023-06-20 10:04:51 - Updating Bath Screens
+2023-06-20 10:04:51 - Updating Bath Accessories
+2023-06-20 10:04:51 - Updating BATHS
+2023-06-20 10:04:51 - Updating Odourless In-Wall Toilets
+2023-06-20 10:04:51 - Updating Toilet Accessories
+2023-06-20 10:04:51 - Updating Kitchen Trays
+2023-06-20 10:04:51 - Updating Kitchen Accessories
+2023-06-20 10:04:51 - Updating Cutting Boards
+2023-06-20 10:04:51 - Updating In-Wall Floor Mounted Toilets
+2023-06-20 10:04:51 - Updating Gas Storage
+2023-06-20 10:04:51 - Updating Electric Storage
+2023-06-20 10:04:51 - Updating Gas Continuous Flow
+2023-06-20 10:04:51 - Updating ACCESSORIES
+2023-06-20 10:04:51 - Updating Vanities
+2023-06-20 10:04:51 - Updating Vanity Brands
+2023-06-20 10:04:51 - Updating Most Affordable Vanities
+2023-06-20 10:04:51 - Updating Spare Parts
+2023-06-20 10:04:51 - Updating Bathroom Furniture
+2023-06-20 10:04:51 - Updating Vanities 900 - 1199mm
+2023-06-20 10:04:51 - Updating Vanities Less Than 600mm
+2023-06-20 10:04:51 - Updating Vanities 600 - 899mm
+2023-06-20 10:04:51 - Updating Vanities 1200 - 1499mm
+2023-06-20 10:04:51 - Updating Vanities 1500 - 1799mm
+2023-06-20 10:04:51 - Updating Vanities 1800 and Above
+2023-06-20 10:04:51 - Updating Laundry Tubs
+2023-06-20 10:04:51 - Updating Laundry
+2023-06-20 10:04:51 - Updating Basket Wastes
+2023-06-20 10:04:51 - Updating Sink Wastes and Food Waste Disposers
+2023-06-20 10:04:51 - Updating Double Bowl Sinks
+2023-06-20 10:04:51 - Updating Single Bowl Sinks
+2023-06-20 10:04:51 - Updating Kitchen Sinks
+2023-06-20 10:04:51 - Updating Configurator Wall Hung Vanities
+2023-06-20 10:04:51 - Updating Configurator Freestanding Vanities
+2023-06-20 10:04:51 - Updating VANITIES & FURNITURE
+2023-06-20 10:04:51 - Updating Flush Plate
+2023-06-20 10:04:51 - Updating Sinks Under 400mm
+2023-06-20 10:04:51 - Updating Sinks 400 - 499mm
+2023-06-20 10:04:51 - Updating Sinks 500 - 599mm
+2023-06-20 10:04:51 - Updating Sinks 600 - 699mm
+2023-06-20 10:04:51 - Updating Sinks 700 - 799mm
+2023-06-20 10:04:51 - Updating Sinks 800 - 899mm
+2023-06-20 10:04:51 - Updating Sinks Above 900mm
+2023-06-20 10:04:51 - Updating Close Coupled & Link Toilets
+2023-06-20 10:04:51 - Updating Toilet Suites
+2023-06-20 10:04:52 - Updating Ready to Ship In-Wall Toilets
+2023-06-20 10:04:52 - Updating Ready to Ship Toilet Suites
+2023-06-20 10:04:52 - Updating Ready to Ship Close-Coupled Toilets
+2023-06-20 10:04:52 - Updating Ready to Ship Smart Toilets
+2023-06-20 10:04:52 - Updating Back to Wall Smart Toilets
+2023-06-20 10:04:52 - Updating Back to Wall Smart Toilets
+2023-06-20 10:04:52 - Updating Floor Mounted Smart Toilets
+2023-06-20 10:04:52 - Updating Wall Hung Smart Toilets
+2023-06-20 10:04:52 - Updating Sinks and Tubs
+2023-06-20 10:04:52 - Updating Ready to Ship Smart Toilets
+2023-06-20 10:04:52 - Updating Floor Mounted Toilet Pans
+2023-06-20 10:04:52 - Updating Close Coupled Toilet Pans
+2023-06-20 10:04:52 - Updating Bidets
+2023-06-20 10:04:52 - Updating Vanity Configurator
+2023-06-20 10:04:52 - Updating Urinals & Commercial
+2023-06-20 10:04:52 - Updating Cisterns & Toilet Seats
+2023-06-20 10:04:52 - Updating Bidet Washlets & Tapware
+2023-06-20 10:04:52 - Updating Toilet Pans
+2023-06-20 10:04:52 - Updating Nevada Vanities
+2023-06-20 10:04:52 - Updating On Sale
+2023-06-20 10:04:52 - Updating New Arrivals
+2023-06-20 10:04:52 - Updating TOTO EOFY SALE
+2023-06-20 10:04:52 - Updating Duravit May Special
+2023-06-20 10:04:52 - Updating Toilet Suites & Showers
+2023-06-20 10:04:52 - Updating Boost All
+2023-06-20 10:04:52 - Updating Gold
+2023-06-20 10:04:52 - Updating Black
+2023-06-20 10:04:52 - Updating Chrome
+2023-06-20 10:04:52 - Updating Rose Gold
+2023-06-20 10:04:52 - Updating Fixed Panel Shower Screens
+2023-06-20 10:04:52 - Updating Corner Shower Screens
+2023-06-20 10:04:52 - Updating Wall-to-Wall Showers
+2023-06-20 10:04:52 - Updating Brushed Gold
+2023-06-20 10:04:52 - Updating Gun Metal
+2023-06-20 10:04:52 - Updating Brushed Nickel
+2023-06-20 10:04:52 - Updating Brushed Rose Gold
+2023-06-20 10:04:52 - Updating Stainless Steel
+2023-06-20 10:04:52 - Updating Brass
+2023-06-20 10:04:52 - Updating Shop By Colour
+2023-06-20 10:04:52 - Updating Appliances
+2023-06-20 10:04:52 - Updating Euro Appliances
+2023-06-20 10:04:52 - Updating Ovens
+2023-06-20 10:04:52 - Updating Refridgerators
+2023-06-20 10:04:52 - Updating Cooktops
+2023-06-20 10:04:52 - Updating Dishwashers
+2023-06-20 10:04:52 - Updating Kitchen Appliances
+2023-06-20 10:04:52 - Updating Laundry Appliances
+2023-06-20 10:04:52 - Updating Washing Machines
+2023-06-20 10:04:52 - Updating Dryers
+2023-06-20 10:04:52 - Updating BBQ
+2023-06-20 10:04:52 - Updating Zip Cashback June 2023
+2023-06-20 10:04:52 - Updating Heaters
+2023-06-20 10:04:52 - Updating Billi Cashback June 2023
+2023-06-20 10:04:52 - Updating Quickship Vanities
+2023-06-20 10:04:52 - Updating Turner Hastings Vanity Promotion
+2023-06-20 10:04:52 - Updating Plumbing & Spares
+2023-06-20 10:04:52 - Updating Hardware Building & Outdoor
+2023-06-20 10:04:52 - Updating Hot Water
+2023-06-20 10:04:52 - Updating Bathrooms
+2023-06-20 10:04:52 - Updating Kitchen & Laundry
+2023-06-20 10:04:52 - Updating Baths
+2023-06-20 10:04:52 - Updating Taps
+2023-06-20 10:04:52 - Updating Basins
+2023-06-20 10:04:52 - Updating Toilets
+2023-06-20 10:04:52 - Updating Urinals
+2023-06-20 10:04:52 - Updating Shower Bases & Screens
+2023-06-20 10:04:52 - Updating Bathroom Accessories
+2023-06-20 10:04:52 - Updating Flush Plates & Buttons
+2023-06-20 10:04:52 - Updating Undermount
+2023-06-20 10:04:52 - Updating Topmount / Inset
+2023-06-20 10:04:52 - Updating Smart Toilets
+2023-06-20 10:04:52 - Updating Sinks & Tubs
+2023-06-20 10:04:52 - Updating Kitchen Tapware
+2023-06-20 10:04:52 - Updating Back To Wall Toilets
+2023-06-20 10:04:52 - Updating Above Counter Basins
+2023-06-20 10:04:52 - Updating Sink Mixers with Pull Out Spray
+2023-06-20 10:04:52 - Updating Filtered Water
+2023-06-20 10:04:52 - Updating Filtered Water
+2023-06-20 10:04:52 - Updating Water Filtered Systems
+2023-06-20 10:04:52 - Updating Water Filtered Systems
+2023-06-20 10:04:52 - Updating Boiling / Chilled / Sparkling Filter Systems
+2023-06-20 10:04:52 - Updating Boiling / Chilled / Sparkling Filter Systems
+2023-06-20 10:04:52 - Updating Showers
+2023-06-20 10:04:52 - Updating Showers on Rails
+2023-06-20 10:04:52 - Updating Toilet Roll Holders
+2023-06-20 10:04:52 - Updating Hand Towel Rails & Rings
+2023-06-20 10:04:52 - Updating Heated Bathroom Accessories
+2023-06-20 10:04:52 - Updating Heat Lamps
+2023-06-20 10:04:52 - Updating Inset Basins
+2023-06-20 10:04:52 - Updating Console Basins
+2023-06-20 10:04:52 - Updating Wall Hung Toilet Pans
+2023-06-20 10:04:52 - Updating Cisterns
+2023-06-20 10:04:52 - Updating Commercial & Care
+2023-06-20 10:04:52 - Updating Commercial Bathroom
+2023-06-20 10:04:52 - Updating Urinals
+2023-06-20 10:04:52 - Updating Freestanding Baths
+2023-06-20 10:04:52 - Updating Island Baths
+2023-06-20 10:04:52 - Updating Built in Baths
+2023-06-20 10:04:52 - Updating Spa Baths
+2023-06-20 10:04:52 - Updating Food Waste Disposers
+2023-06-20 10:04:52 - Updating In Sink Disposer
+2023-06-20 10:04:52 - Updating Floor Standing Mixers
+2023-06-20 10:04:52 - Updating Floor Standing Mixers
+2023-06-20 10:04:52 - Updating Semi Recessed Basins
+2023-06-20 10:04:52 - Updating On Sale
+2023-06-20 10:04:52 - Updating Specials
+2023-06-20 10:04:52 - Updating Sink Mixers
+2023-06-20 10:04:52 - Updating Robe Hooks
+2023-06-20 10:04:52 - Updating Close Coupled Toilets
+2023-06-20 10:04:52 - Updating Bathroom Furniture
+2023-06-20 10:04:52 - Updating Wall Hung Vanities
+2023-06-20 10:04:52 - Updating Wall Mixers
+2023-06-20 10:04:52 - Updating Rain / Ceiling Showers
+2023-06-20 10:04:52 - Updating Bathroom Furniture
+2023-06-20 10:04:52 - Updating Linen & Wall Cabinets
+2023-06-20 10:04:52 - Updating Storage Hot Water Systems
+2023-06-20 10:04:52 - Updating Rheem Gas Storage
+2023-06-20 10:04:52 - Updating Spouts
+2023-06-20 10:04:52 - Updating Continuous Flow Hot Water System
+2023-06-20 10:04:52 - Updating Rinnai Gas Continuous Flow
+2023-06-20 10:04:52 - Updating Floor Mounted Toilet Pans
+2023-06-20 10:04:52 - Updating Accessories
+2023-06-20 10:04:52 - Updating Disabled & Aged Care
+2023-06-20 10:04:52 - Updating Back Rests
+2023-06-20 10:04:52 - Updating Grab Rails
+2023-06-20 10:04:52 - Updating Wall Hung Basins
+2023-06-20 10:04:52 - Updating Plumbing & Spare Parts
+2023-06-20 10:04:52 - Updating Toilet Seats
+2023-06-20 10:04:52 - Updating Three Piece Tapware
+2023-06-20 10:04:52 - Updating Outdoor Showers
+2023-06-20 10:04:52 - Updating Towel Rails
+2023-06-20 10:04:52 - Updating Soap Dishes
+2023-06-20 10:04:52 - Updating Drainage & Wastes
+2023-06-20 10:04:52 - Updating Bath & Basin Wastes
+2023-06-20 10:04:52 - Updating Thermostatic Mixers
+2023-06-20 10:04:52 - Updating Thermostatic Mixers
+2023-06-20 10:04:52 - Updating Soap Dispensers
+2023-06-20 10:04:52 - Updating Ventilation System
+2023-06-20 10:04:52 - Updating Link Toilet Suites
+2023-06-20 10:04:52 - Updating Toilet Brush Holders
+2023-06-20 10:04:52 - Updating Bathroom Shelves & Baskets
+2023-06-20 10:04:52 - Updating Bidet Mixers
+2023-06-20 10:04:52 - Updating Bathroom Mirrors
+2023-06-20 10:04:52 - Updating Floor Wastes
+2023-06-20 10:04:52 - Updating Shaving Cabinets
+2023-06-20 10:04:52 - Updating Bottle Traps
+2023-06-20 10:04:52 - Updating Laundry Tub with Cabinets
+2023-06-20 10:04:52 - Updating Under Counter Basins
+2023-06-20 10:04:52 - Updating Linear Drains
+2023-06-20 10:04:52 - Updating Basins
+2023-06-20 10:04:52 - Updating Basins
+2023-06-20 10:04:52 - Updating Shower Seats
+2023-06-20 10:04:52 - Updating Underfloor Heating
+2023-06-20 10:04:52 - Updating Rheem Electric Storage
+2023-06-20 10:04:52 - Updating Bathroom Panels
+2023-06-20 10:04:52 - Updating Panels
+2023-06-20 10:04:52 - Updating Profiles
+2023-06-20 10:04:52 - Updating Water Filter Cartridges
+2023-06-20 10:04:52 - Updating Water Filter Cartridges
+2023-06-20 10:04:52 - Updating Water Filter Cartridges
+2023-06-20 10:04:52 - Updating Showers
+2023-06-20 10:04:52 - Updating Pumps
+2023-06-20 10:04:52 - Updating Submersible Pumps
+2023-06-20 10:04:52 - Updating Grey Water Pumps
+2023-06-20 10:04:52 - Updating New Products
+2023-06-20 10:04:52 - Updating Manual Openable Skylights
+2023-06-20 10:04:52 - Updating Velux Skylights
+2023-06-20 10:04:52 - Updating Kitchen Sinks Packages
+2023-06-20 10:04:52 - Updating Electric Openable Skylights
+2023-06-20 10:04:52 - Updating DIY Screens
+2023-06-20 10:04:52 - Updating Shower Cubicles
+2023-06-20 10:04:52 - Updating Sinks & Laundry Units
+2023-06-20 10:04:52 - Updating Custom Made
+2023-06-20 10:04:52 - Updating Architectural Glass
+2023-06-20 10:04:52 - Updating Outdoor Heaters
+2023-06-20 10:04:52 - Updating Electric Heater
+2023-06-20 10:04:52 - Updating Toilet Macerator Pumps
+2023-06-20 10:04:52 - Updating Freestanding Basins
+2023-06-20 10:04:52 - Updating Exhaust Fans
+2023-06-20 10:04:52 - Updating Hand Held Showers
+2023-06-20 10:04:52 - Updating Basins
+2023-06-20 10:04:52 - Updating Shower Systems
+2023-06-20 10:04:52 - Updating Grills
+2023-06-20 10:04:52 - Updating Ducting
+2023-06-20 10:04:52 - Updating Brands
+2023-06-20 10:04:52 - Updating Clark
+2023-06-20 10:04:52 - Updating Parisi
+2023-06-20 10:04:52 - Updating Caroma
+2023-06-20 10:04:52 - Updating Cube
+2023-06-20 10:04:52 - Updating Paco Jaanson
+2023-06-20 10:04:52 - Updating KWC
+2023-06-20 10:04:52 - Updating Zip
+2023-06-20 10:04:52 - Updating Avenir
+2023-06-20 10:04:52 - Updating Tago
+2023-06-20 10:04:52 - Updating IXL
+2023-06-20 10:04:52 - Updating Insinkerator
+2023-06-20 10:04:52 - Updating Duravit
+2023-06-20 10:04:52 - Updating Victoria + Albert
+2023-06-20 10:04:52 - Updating Geberit
+2023-06-20 10:04:52 - Updating Fowler
+2023-06-20 10:04:52 - Updating DADOquartz
+2023-06-20 10:04:52 - Updating Decina
+2023-06-20 10:04:52 - Updating Kaldewei
+2023-06-20 10:04:52 - Updating Oliveri
+2023-06-20 10:04:52 - Updating Dorf
+2023-06-20 10:04:52 - Updating Studio Bagno
+2023-06-20 10:04:52 - Updating Hansa
+2023-06-20 10:04:52 - Updating Armando Vicario
+2023-06-20 10:04:52 - Updating Franke
+2023-06-20 10:04:52 - Updating Rheem
+2023-06-20 10:04:52 - Updating Rinnai
+2023-06-20 10:04:52 - Updating Turner Hastings
+2023-06-20 10:04:52 - Updating Gentec
+2023-06-20 10:04:52 - Updating Haron
+2023-06-20 10:04:52 - Updating Argent
+2023-06-20 10:04:52 - Updating Sussex
+2023-06-20 10:04:52 - Updating Valsir
+2023-06-20 10:04:52 - Updating Deflecto
+2023-06-20 10:04:52 - Updating Plus
+2023-06-20 10:04:52 - Updating Bounty Brassware
+2023-06-20 10:04:52 - Updating Minus
+2023-06-20 10:04:52 - Updating Base
+2023-06-20 10:04:52 - Updating Streamline
+2023-06-20 10:04:52 - Updating Timberline
+2023-06-20 10:04:52 - Updating Universal
+2023-06-20 10:04:52 - Updating Urbane
+2023-06-20 10:04:52 - Updating Stylus
+2023-06-20 10:04:52 - Updating Verotti
+2023-06-20 10:04:52 - Updating Carboni
+2023-06-20 10:04:52 - Updating Liano
+2023-06-20 10:04:52 - Updating Milena
+2023-06-20 10:04:52 - Updating Stormtech
+2023-06-20 10:04:52 - Updating Master Rail
+2023-06-20 10:04:52 - Updating Artizen
+2023-06-20 10:04:52 - Updating Nefa
+2023-06-20 10:04:52 - Updating Cubo
+2023-06-20 10:04:52 - Updating Solo
+2023-06-20 10:04:52 - Updating Hybrid
+2023-06-20 10:04:52 - Updating Fluid
+2023-06-20 10:04:52 - Updating Form
+2023-06-20 10:04:52 - Updating Ventair
+2023-06-20 10:04:52 - Updating Metlam
+2023-06-20 10:04:52 - Updating Hotwire
+2023-06-20 10:04:52 - Updating Allvent
+2023-06-20 10:04:52 - Updating Care
+2023-06-20 10:04:52 - Updating Marblo
+2023-06-20 10:04:52 - Updating Rainware
+2023-06-20 10:04:52 - Updating Hydrotherm
+2023-06-20 10:04:52 - Updating Panelscape
+2023-06-20 10:04:52 - Updating Phoenix Tapware
+2023-06-20 10:04:52 - Updating Bathroom Furniture
+2023-06-20 10:04:52 - Updating Contura
+2023-06-20 10:04:52 - Updating Ledin Australia
+2023-06-20 10:04:52 - Updating PLD
+2023-06-20 10:04:52 - Updating Air Conditioning
+2023-06-20 10:04:52 - Updating Split System
+2023-06-20 10:04:52 - Updating Moon
+2023-06-20 10:04:52 - Updating Teo 2.0
+2023-06-20 10:04:52 - Updating Above
+2023-06-20 10:04:52 - Updating Xylo
+2023-06-20 10:04:52 - Updating Bizu
+2023-06-20 10:04:52 - Updating Beyond
+2023-06-20 10:04:52 - Updating Econ
+2023-06-20 10:04:52 - Updating Xylo Rails
+2023-06-20 10:04:52 - Updating Billi
+2023-06-20 10:04:52 - Updating Rifco
+2023-06-20 10:04:52 - Updating Accessories
+2023-06-20 10:04:52 - Updating Fixed Skylights
+2023-06-20 10:04:52 - Updating Coway
+2023-06-20 10:04:52 - Updating Flexispray
+2023-06-20 10:04:52 - Updating Sterling
+2023-06-20 10:04:52 - Updating Davey
+2023-06-20 10:04:52 - Updating Puretec
+2023-06-20 10:04:52 - Updating Hand Spray
+2023-06-20 10:04:52 - Updating The Bidet Shop
+2023-06-20 10:04:52 - Updating Fix a Tap
+2023-06-20 10:04:52 - Updating Bette
+2023-06-20 10:04:52 - Updating Cupid
+2023-06-20 10:04:52 - Updating Sunstone
+2023-06-20 10:04:52 - Updating Saniflo
+2023-06-20 10:04:52 - Updating K R Lucas & Co
+2023-06-20 10:04:52 - Updating Oschin
+2023-06-20 10:04:52 - Updating Continuous Flow Hot Water Systems
+2023-06-20 10:04:52 - Updating Storage Hot Water System
+2023-06-20 10:04:52 - Updating Rinnai Instant Hot Water System
+2023-06-20 10:04:52 - Updating Velux
+2023-06-20 10:04:52 - Updating Rheem Gas Storage
+2023-06-20 10:04:52 - Updating Rheem Electric Storage
+2023-06-20 10:04:52 - Updating Inspirations
+2023-06-20 10:04:52 - Updating TOTO
+2023-06-20 10:04:52 - Updating Curves Collection
+2023-06-20 10:04:52 - Updating Modern Collection
+2023-06-20 10:04:52 - Updating Black & White Collection
+2023-06-20 10:04:52 - Updating Gareth Ashton
+2023-06-20 10:04:52 - Updating Villeroy & Boch
+2023-06-20 10:04:52 - Updating Hansgrohe
+2023-06-20 10:04:52 - Updating Floor Mounted Toilet Packages
+2023-06-20 10:04:52 - Updating Blanco
+2023-06-20 10:04:52 - Updating Newform
+2023-06-20 10:04:52 - Updating Abey
+2023-06-20 10:04:52 - Updating Gessi
+2023-06-20 10:04:52 - Updating Methven
+2023-06-20 10:04:52 - Updating Brodware
+2023-06-20 10:04:52 - Updating Wall Hung Toilet Packages
+2023-06-20 10:04:52 - Updating Gallaria
+2023-06-20 10:04:52 - Updating Reginox
+2023-06-20 10:04:52 - Updating Pietra Bianca
+2023-06-20 10:04:52 - Updating Xeric
+2023-06-20 10:04:52 - Updating Brio
+2023-06-20 10:04:52 - Updating Abask
+2023-06-20 10:04:52 - Updating Titan
+2023-06-20 10:04:52 - Updating Luna
+2023-06-20 10:04:52 - Updating Grates 2 Go Australia
+2023-06-20 10:04:52 - Updating Rinnai Electric Storage
+2023-06-20 10:04:52 - Updating Throne
+2023-06-20 10:04:52 - Updating Rinnai Electric Storage Hot Water Heater
+2023-06-20 10:04:52 - Updating Rinnai Gas Storage
+2023-06-20 10:04:52 - Updating Rinnai Gas Storage Hot Water Heater
+2023-06-20 10:04:52 - Updating Viega
+2023-06-20 10:04:52 - Updating Rheem Gas Continuous Flow
+2023-06-20 10:04:52 - Updating Stocktake Sale
+2023-06-20 10:04:52 - Updating Marquis
+2023-06-20 10:04:52 - Updating Nordic Collection
+2023-06-20 10:04:52 - Updating Traditional Collection
+2023-06-20 10:04:52 - Updating Co2 Replacement Cylinder Kit
+2023-06-20 10:04:52 - Updating Co2 Replacement Cylinder Kit
+2023-06-20 10:04:52 - Updating Food Waste Disposers
+2023-06-20 10:04:52 - Updating Water Filters
+2023-06-20 10:04:52 - Updating Taqua
+2023-06-20 10:04:52 - Updating Kitchen Sinks
+2023-06-20 10:04:52 - Updating Bathroom Accessories
+2023-06-20 10:04:52 - Updating Hot Water System Accessories
+2023-06-20 10:04:52 - Updating Hot Water System Accessories
+2023-06-20 10:04:52 - Updating Replacement Showers Accessories
+2023-06-20 10:04:52 - Updating Aquas
+2023-06-20 10:04:52 - Updating Showers
+2023-06-20 10:04:52 - Updating Underfloor Heating
+2023-06-20 10:04:52 - Updating Rinnai Installation Options
+2023-06-20 10:04:52 - Updating Rheem Installation Options
+2023-06-20 10:04:52 - Updating Clark Brand
+2023-06-20 10:04:52 - Updating Toilet Spare Parts
+2023-06-20 10:04:52 - Updating Aqualogic NT
+2023-06-20 10:04:52 - Updating Ozone Kitchen Mixer
+2023-06-20 10:04:52 - Updating Tapware Spare Parts
+2023-06-20 10:04:52 - Updating Auscan
+2023-06-20 10:04:52 - Updating Tapware Cartridges
+2023-06-20 10:04:52 - Updating Bathroom Heating Accessories
+2023-06-20 10:04:52 - Updating Pedestal Basins
+2023-06-20 10:04:52 - Updating Pedestal Basins
+2023-06-20 10:04:52 - Updating Towel Ladders
+2023-06-20 10:04:52 - Updating Fima
+2023-06-20 10:04:52 - Updating Flat Roof Skylights
+2023-06-20 10:04:52 - Updating FLEX CONN
+2023-06-20 10:04:52 - Updating Fluidmaster
+2023-06-20 10:04:52 - Updating Fernco
+2023-06-20 10:04:52 - Updating Bromic
+2023-06-20 10:04:52 - Updating Bostik
+2023-06-20 10:04:52 - Updating Sealants & Adhesives
+2023-06-20 10:04:52 - Updating Aquaknect
+2023-06-20 10:04:52 - Updating Pipe & Fittings
+2023-06-20 10:04:52 - Updating Evolve Group
+2023-06-20 10:04:52 - Updating E. H. Dark & Son
+2023-06-20 10:04:52 - Updating Shower Accessories
+2023-06-20 10:04:52 - Updating Wall Showers
+2023-06-20 10:04:52 - Updating Water Filters Australia
+2023-06-20 10:04:52 - Updating Brasshards
+2023-06-20 10:04:52 - Updating Fix A Loo
+2023-06-20 10:04:52 - Updating Gessi 316
+2023-06-20 10:04:52 - Updating Toilet Seats
+2023-06-20 10:04:52 - Updating Cono
+2023-06-20 10:04:52 - Updating JEE-O
+2023-06-20 10:04:52 - Updating Eleganza
+2023-06-20 10:04:52 - Updating Emporio
+2023-06-20 10:04:52 - Updating Goccia
+2023-06-20 10:04:52 - Updating Rettangolo
+2023-06-20 10:04:52 - Updating Alia
+2023-06-20 10:04:52 - Updating Vivid
+2023-06-20 10:04:52 - Updating Toi
+2023-06-20 10:04:52 - Updating Vivid Slimline
+2023-06-20 10:04:52 - Updating Mekko
+2023-06-20 10:04:52 - Updating Nostalgia
+2023-06-20 10:04:52 - Updating Rush
+2023-06-20 10:04:52 - Updating Radii
+2023-06-20 10:04:52 - Updating Blade
+2023-06-20 10:04:52 - Updating Flow
+2023-06-20 10:04:52 - Updating Tondo
+2023-06-20 10:04:52 - Updating Simas
+2023-06-20 10:04:52 - Updating Cameo
+2023-06-20 10:04:52 - Updating Linfa
+2023-06-20 10:04:52 - Updating Twenty
+2023-06-20 10:04:52 - Updating Domiziani
+2023-06-20 10:04:52 - Updating Quadro
+2023-06-20 10:04:52 - Updating Seed
+2023-06-20 10:04:52 - Updating Jazz
+2023-06-20 10:04:52 - Updating Tole
+2023-06-20 10:04:52 - Updating Hermitage
+2023-06-20 10:04:52 - Updating Iks
+2023-06-20 10:04:52 - Updating Bianco
+2023-06-20 10:04:52 - Updating Ovo
+2023-06-20 10:04:52 - Updating Pop
+2023-06-20 10:04:52 - Updating Shard X
+2023-06-20 10:04:52 - Updating Shard
+2023-06-20 10:04:52 - Updating Manhattan
+2023-06-20 10:04:52 - Updating Cross
+2023-06-20 10:04:52 - Updating Round Blade
+2023-06-20 10:04:52 - Updating Round Pin
+2023-06-20 10:04:52 - Updating Round Square
+2023-06-20 10:04:52 - Updating Round
+2023-06-20 10:04:52 - Updating Square
+2023-06-20 10:04:52 - Updating Gloss
+2023-06-20 10:04:52 - Updating Cerchio
+2023-06-20 10:04:52 - Updating Winslow
+2023-06-20 10:04:52 - Updating Neu England
+2023-06-20 10:04:52 - Updating Manhattan
+2023-06-20 10:04:52 - Updating Industrica
+2023-06-20 10:04:52 - Updating Yokato
+2023-06-20 10:04:52 - Updating Michelangelo
+2023-06-20 10:04:52 - Updating City Stik
+2023-06-20 10:04:52 - Updating Halo
+2023-06-20 10:04:52 - Updating SQ75
+2023-06-20 10:04:52 - Updating SQ73
+2023-06-20 10:04:52 - Updating City Que
+2023-06-20 10:04:52 - Updating Classique
+2023-06-20 10:04:52 - Updating City Plus
+2023-06-20 10:04:52 - Updating O.novo
+2023-06-20 10:04:52 - Updating Dawn
+2023-06-20 10:04:52 - Updating Subway
+2023-06-20 10:04:52 - Updating Squaro
+2023-06-20 10:04:52 - Updating Oberon
+2023-06-20 10:04:53 - Updating Venticello
+2023-06-20 10:04:53 - Updating Architectura
+2023-06-20 10:04:53 - Updating Safety Trays
+2023-06-20 10:04:53 - Updating Wall Bracket Kit
+2023-06-20 10:04:53 - Updating HPM
+2023-06-20 10:04:53 - Updating Polyslab Base
+2023-06-20 10:04:53 - Updating Vanities & Furniture
+2023-06-20 10:04:53 - Updating Vanities
+2023-06-20 10:04:53 - Updating Bath Outlets
+2023-06-20 10:04:53 - Updating Smart Toilets
+2023-06-20 10:04:53 - Updating Freestanding Vanities
+2023-06-20 10:04:53 - Updating Nara
+2023-06-20 10:04:53 - Updating Vivid Slimline Up
+2023-06-20 10:04:53 - Updating Teel
+2023-06-20 10:04:53 - Updating Insinkerator Spare Parts
+2023-06-20 10:04:53 - Updating Storage Hot Water Installation
+2023-06-20 10:04:53 - Updating Ram Tapware
+2023-06-20 10:04:53 - Updating Continuous Flow Hot Water Installation
+2023-06-20 10:04:53 - Updating Shaws
+2023-06-20 10:04:53 - Updating Aqua Pure
+2023-06-20 10:04:53 - Updating Vanities & Furniture
+2023-06-20 10:04:53 - Updating Kitchen Accessories
+2023-06-20 10:04:53 - Updating Wall Hung Vanities
+2023-06-20 10:04:53 - Updating Freestanding Vanities
+2023-06-20 10:04:53 - Updating Yokato Disc
+2023-06-20 10:04:53 - Updating Hand Dryers
+2023-06-20 10:04:53 - Updating Halo Marble
+2023-06-20 10:04:53 - Updating Lucia
+2023-06-20 10:04:53 - Updating Park Avenue
+2023-06-20 10:04:53 - Updating Poco
+2023-06-20 10:04:53 - Updating Stile
+2023-06-20 10:04:53 - Updating Madison Avenue
+2023-06-20 10:04:53 - Updating Clearwater Stone
+2023-06-20 10:04:53 - Updating Calibre
+2023-06-20 10:04:53 - Updating Circa
+2023-06-20 10:04:53 - Updating Monsoon
+2023-06-20 10:04:53 - Updating Voda
+2023-06-20 10:04:53 - Updating Ellisse
+2023-06-20 10:04:53 - Updating Evo
+2023-06-20 10:04:53 - Updating Suba
+2023-06-20 10:04:53 - Updating Shaving Cabinets
+2023-06-20 10:04:53 - Updating Franke Bonus High Flow Water Filter
+2023-06-20 10:04:53 - Updating Cut
+2023-06-20 10:04:53 - Updating Track
+2023-06-20 10:04:53 - Updating Form
+2023-06-20 10:04:53 - Updating Nur
+2023-06-20 10:04:53 - Updating Spy
+2023-06-20 10:04:53 - Updating Stiebel Eltron Heat Pump Hot Water System
+2023-06-20 10:04:53 - Updating Cesello
+2023-06-20 10:04:53 - Updating Heat Pumps
+2023-06-20 10:04:53 - Updating Flushing System
+2023-06-20 10:04:53 - Updating Showers
+2023-06-20 10:04:53 - Updating Natural Stone
+2023-06-20 10:04:53 - Updating Paris
+2023-06-20 10:04:53 - Updating NX with Hydrosense
+2023-06-20 10:04:53 - Updating Atelier
+2023-06-20 10:04:53 - Updating Commercial & Care
+2023-06-20 10:04:53 - Updating Commercial Kitchen
+2023-06-20 10:04:53 - Updating Loom
+2023-06-20 10:04:53 - Updating Zimi
+2023-06-20 10:04:53 - Updating Ortho
+2023-06-20 10:04:53 - Updating Showers
+2023-06-20 10:04:53 - Updating Sinks
+2023-06-20 10:04:53 - Updating Expella
+2023-06-20 10:04:53 - Updating MAMO
+2023-06-20 10:04:53 - Updating Hand Sprayer
+2023-06-20 10:04:53 - Updating Rinnai Recess Boxes
+2023-06-20 10:04:53 - Updating Odourless Toilets
+2023-06-20 10:04:53 - Updating Back To Wall Toilets
+2023-06-20 10:04:53 - Updating Floor Mount Toilet Packages
+2023-06-20 10:04:53 - Updating Wall Hung Toilet Packages
+2023-06-20 10:04:53 - Updating Bespoke
+2023-06-20 10:04:53 - Updating Packages
+2023-06-20 10:04:53 - Updating Parisi Linfa Floor Mount Toilet Packages
+2023-06-20 10:04:53 - Updating Stiebel Eltron
+2023-06-20 10:04:53 - Updating Stiebel Eltron Water Heaters
+2023-06-20 10:04:53 - Updating Stiebel Eltron Storage Water Heater
+2023-06-20 10:04:53 - Updating Indoor Heaters
+2023-06-20 10:04:53 - Updating Stiebel Eltron Electric Heaters
+2023-06-20 10:04:53 - Updating Soap Dispensers
+2023-06-20 10:04:53 - Updating Roller Mats
+2023-06-20 10:04:53 - Updating Bidet Seats Only
+2023-06-20 10:04:53 - Updating Back To Wall Bidets
+2023-06-20 10:04:53 - Updating Wall Hung Bidets
+2023-06-20 10:04:53 - Updating Floor Mount Bidets
+2023-06-20 10:04:53 - Updating Close Coupled Bidets
+2023-06-20 10:04:53 - Updating Fireclay / Ceramic / Butler Sinks
+2023-06-20 10:04:53 - Updating Linsol
+2023-06-20 10:04:53 - Updating Acquerello
+2023-06-20 10:04:53 - Updating Bathe
+2023-06-20 10:04:53 - Updating Blanco SUBLINE & LINUS-S Package Promotion
+2023-06-20 10:04:53 - Updating TOTO Spring Sale 2021
+2023-06-20 10:04:53 - Updating Stands/Stools & Accessories
+2023-06-20 10:04:53 - Updating Millennium Tapware
+2023-06-20 10:04:53 - Updating Schell
+2023-06-20 10:04:53 - Updating Ventilation Kits
+2023-06-20 10:04:53 - Updating Specials
+2023-06-20 10:04:53 - Updating Valves
+2023-06-20 10:04:53 - Updating InteliClean
+2023-06-20 10:04:53 - Updating Argent Toilet Package Deals
+2023-06-20 10:04:53 - Updating Cassa Design
+2023-06-20 10:04:53 - Updating Wall Hung Bidet Packages
+2023-06-20 10:04:53 - Updating Floor Mount Bidet Packages
+2023-06-20 10:04:53 - Updating Inciso
+2023-06-20 10:04:53 - Updating Bathroom Butler
+2023-06-20 10:04:53 - Updating Foster
+2023-06-20 10:04:53 - Updating Hammock Bath
+2023-06-20 10:04:53 - Updating Grohe
+2023-06-20 10:04:53 - Updating Pipe and Drain Cleaning
+2023-06-20 10:04:53 - Updating Vita
+2023-06-20 10:04:53 - Updating Test
+2023-06-20 10:04:53 - Updating 3monkeez
+2023-06-20 10:04:53 - Updating Emroware
+2023-06-20 10:04:53 - Updating Reln
+2023-06-20 10:04:53 - Updating Linkware
+2023-06-20 10:04:53 - Updating Greens
+2023-06-20 10:04:53 - Updating Lexi MKII
+2023-06-20 10:04:53 - Updating Pina
+2023-06-20 10:04:53 - Updating Ace
+2023-06-20 10:04:53 - Updating inVogue
+2023-06-20 10:04:53 - Updating Bath/Shower System
+2023-06-20 10:04:53 - Updating Universal
+2023-06-20 10:04:53 - Updating Elson
+2023-06-20 10:04:53 - Updating Laundry Taps
+2023-06-20 10:04:53 - Updating Stratos
+2023-06-20 10:04:53 - Updating Milu Odourless
+2023-06-20 10:04:53 - Updating Tools
+2023-06-20 10:04:53 - Updating Bahco
+2023-06-20 10:04:53 - Updating Odourless Toilets
+2023-06-20 10:04:53 - Updating Floor Waste
+2023-06-20 10:04:53 - Updating Foot Rests
+2023-06-20 10:04:53 - Updating Black Fittings
+2023-06-20 10:04:53 - Updating Rose Gold
+2023-06-20 10:04:53 - Updating Gun-Metal
+2023-06-20 10:04:53 - Updating Brushed Nickel
+2023-06-20 10:04:53 - Updating Chrome
+2023-06-20 10:04:53 - Updating All Drawer
+2023-06-20 10:04:53 - Updating Door Only
+2023-06-20 10:04:53 - Updating Co2 Refills
+2023-06-20 10:04:53 - Updating Shop Kitchen
+2023-06-20 10:04:53 - Updating Corner Baths
+2023-06-20 10:04:53 - Updating Back to Wall Baths
+2023-06-20 10:04:53 - Updating Shop Bathrooms
+2023-06-20 10:04:53 - Updating Shop Laundry
+2023-06-20 10:04:53 - Updating Mega Menu - Featured Products
+2023-06-20 10:04:53 - Updating Featured Products
+2023-06-20 10:04:53 - Updating Shop Bathroom
+2023-06-20 10:04:53 - Updating Baths, bathrooms, Island Baths
+2023-06-20 10:04:53 - Updating Toilet Seats,Bathrooms
+2023-06-20 10:04:53 - Updating Wall Mixer
+2023-06-20 10:04:53 - Updating Basin Mixer Tap
+2023-06-20 10:04:53 - Updating Sink Mixer
+2023-06-20 10:04:53 - Updating Design Your Own Style
+2023-06-20 10:04:53 - Updating Clearance Sale
+2023-06-20 10:04:53 - Updating Matte Black
+2023-06-20 10:04:53 - Updating Black without taps
+2023-06-20 10:04:53 - Updating Brushed Nickel without taps
+2023-06-20 10:04:53 - Updating Argent Smart Toilets
+2023-06-20 10:04:53 - Updating wall-top-assemblies
+2023-06-20 10:04:53 - Updating Ready to Ship Toilets
+2023-06-20 10:04:53 - Updating Hot Water Spare Parts
+2023-06-20 10:04:53 - Updating Build Your Vanity
+2023-06-20 10:04:53 - Updating Kohler
+2023-06-20 10:04:53 - Updating Timberline Vanities
+2023-06-20 10:04:53 - Updating Marquis Vanities
+2023-06-20 10:04:53 - Updating Best Sellers
+2023-06-20 10:04:53 - Updating shop by specials
+2023-06-20 10:04:53 - Updating Rifco Vanities
+2023-06-20 10:04:53 - Updating Bath & Basin Mixers
+2023-06-20 10:04:53 - Updating ADP
+2023-06-20 10:04:53 - Updating Rinnai Heat Pumps
+2023-06-20 10:04:53 - Updating Kitchen & Laundry Wastes
+2023-06-20 10:04:53 - Updating Bath Wastes
+2023-06-20 10:04:53 - Updating Basin Wastes
+2023-06-20 10:04:53 - Updating Shower/Floor Wastes
+2023-06-20 10:04:53 - Updating Linear Wastes
+2023-06-20 10:04:53 - Updating Bath Tapware
+2023-06-20 10:04:53 - Updating Wastes, Grates & Bottle Traps
+2023-06-20 10:04:53 - Updating ADP Vanities
+2023-06-20 10:04:53 - Updating Caroma Smart Toilets
+2023-06-20 10:04:53 - Updating Rimless Toilets
+2023-06-20 10:04:53 - Updating dadoquartz
+2023-06-20 10:04:53 - Updating argent-special-offer-duracolour™
+2023-06-20 10:04:53 - Updating Compact Baths
+2023-06-20 10:04:53 - Updating Nevada Vanity Sizes
+2023-06-20 10:04:53 - Updating Freestanding Spa Baths
+2023-06-20 10:04:53 - Updating Inset Spa Baths
+2023-06-20 10:04:53 - Updating Drawer Vanities
+2023-06-20 10:04:53 - Updating Narrow Vanities
+2023-06-20 10:04:53 - Updating Vanity Samples
+2023-06-20 10:04:53 - Completed Processing
+2023-06-20 10:08:39 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:08:56 - New data from input_1.xlsx
+2023-06-20 10:08:58 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:08:59 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:08:59 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:09:00 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:09:01 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:09:02 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:09:03 - Completed Inventory Updates
+2023-06-20 10:09:03 - Updating Augmented Reality
+2023-06-20 10:09:03 - Updating Duravit 15% Off Promotion
+2023-06-20 10:09:03 - Updating Thermogroup
+2023-06-20 10:09:03 - Updating Argent Smart Toilet
+2023-06-20 10:09:03 - Updating Coway Smart Toilet
+2023-06-20 10:09:03 - Updating Duravit Smart Toilets
+2023-06-20 10:09:03 - Updating The Bidet Shop Smart Toilets
+2023-06-20 10:09:03 - Updating Gallaria Smart Toilets
+2023-06-20 10:09:03 - Updating Throne Smart Toilets
+2023-06-20 10:09:03 - Updating Toto Smart Toilet
+2023-06-20 10:09:03 - Updating Franke Bonus Accessory Offer
+2023-06-20 10:09:03 - Updating Zip Residential Taps
+2023-06-20 10:09:03 - Updating Commercial Zip Taps
+2023-06-20 10:09:03 - Updating Mixx Tapware
+2023-06-20 10:09:03 - Updating K R Lucas
+2023-06-20 10:09:03 - Updating Under $10
+2023-06-20 10:09:03 - Updating Over $10
+2023-06-20 10:09:03 - Updating BTH
+2023-06-20 10:09:03 - Updating Lauxes
+2023-06-20 10:09:03 - Updating AquaLigna
+2023-06-20 10:09:03 - Updating cassbrothers
+2023-06-20 10:09:03 - Updating Rectorseal
+2023-06-20 10:09:03 - Updating Harmony Bathroomware
+2023-06-20 10:09:03 - Updating DADOquartz
+2023-06-20 10:09:03 - Updating Millennium
+2023-06-20 10:09:03 - Updating RMC
+2023-06-20 10:09:03 - Updating ADP
+2023-06-20 10:09:03 - Updating TECE
+2023-06-20 10:09:03 - Updating GRO Agencies
+2023-06-20 10:09:03 - Updating Cee Jay
+2023-06-20 10:09:03 - Updating Globo
+2023-06-20 10:09:03 - Updating Gareth Asthon
+2023-06-20 10:09:03 - Updating Villeroy & Boch Bathroom Tapware & Accessories Promotion
+2023-06-20 10:09:03 - Updating SHAWS
+2023-06-20 10:09:03 - Updating TOTO Spring Sale 2022
+2023-06-20 10:09:03 - Updating Fonts
+2023-06-20 10:09:03 - Updating Billi
+2023-06-20 10:09:03 - Updating Zip
+2023-06-20 10:09:03 - Updating Puretec
+2023-06-20 10:09:03 - Updating Insinkerator
+2023-06-20 10:09:03 - Updating Fienza
+2023-06-20 10:09:03 - Updating Shower Arms
+2023-06-20 10:09:03 - Updating In-Wall Toilets
+2023-06-20 10:09:03 - Updating Toilet Packages
+2023-06-20 10:09:03 - Updating Bathroom Taps
+2023-06-20 10:09:03 - Updating Basin Taps
+2023-06-20 10:09:03 - Updating Bath Taps
+2023-06-20 10:09:03 - Updating Basin Mixers
+2023-06-20 10:09:03 - Updating Floorstanding Tapware
+2023-06-20 10:09:03 - Updating Bidet Tapware
+2023-06-20 10:09:03 - Updating Shower & Bath Mixers
+2023-06-20 10:09:03 - Updating Shower Mixers
+2023-06-20 10:09:03 - Updating Turner Hastings Curated Collection
+2023-06-20 10:09:03 - Updating Milu Odourless Accessories
+2023-06-20 10:09:03 - Updating Caroma Urbane II Invisi Series Flush Plates
+2023-06-20 10:09:03 - Updating Exclusive Collections
+2023-06-20 10:09:03 - Updating Villeroy & Boch Stratos Collection
+2023-06-20 10:09:03 - Updating Timberline X Shaynna Blaze Collection
+2023-06-20 10:09:03 - Updating Stone Baths
+2023-06-20 10:09:03 - Updating Back To Wall Baths
+2023-06-20 10:09:03 - Updating Heated Towel Rails
+2023-06-20 10:09:03 - Updating Zip Free Installation Special
+2023-06-20 10:09:03 - Updating Basin Mixer Sets
+2023-06-20 10:09:03 - Updating Basin Wall Mixers
+2023-06-20 10:09:03 - Updating Black Basin Mixers
+2023-06-20 10:09:03 - Updating Basin Spouts
+2023-06-20 10:09:03 - Updating Black Basin Spouts
+2023-06-20 10:09:03 - Updating 3 Piece Basin Tap Set
+2023-06-20 10:09:03 - Updating Basin Tap Sets
+2023-06-20 10:09:03 - Updating Black Basin Taps
+2023-06-20 10:09:03 - Updating Black Basin Tap Sets
+2023-06-20 10:09:03 - Updating Wall Mounted Basin Taps
+2023-06-20 10:09:03 - Updating Above Counter Stone Basins
+2023-06-20 10:09:03 - Updating Black Basin Mixers
+2023-06-20 10:09:03 - Updating Concrete Basins
+2023-06-20 10:09:03 - Updating Oval Above Counter Basins
+2023-06-20 10:09:03 - Updating Oval Basins
+2023-06-20 10:09:03 - Updating Oval Inset Basins
+2023-06-20 10:09:03 - Updating Oval Semi Recessed Basin
+2023-06-20 10:09:03 - Updating Oval Under Counter Basins
+2023-06-20 10:09:03 - Updating Oval Wall Hung Basins
+2023-06-20 10:09:03 - Updating Recessed Basins
+2023-06-20 10:09:03 - Updating Round Basins
+2023-06-20 10:09:03 - Updating Stone Basins
+2023-06-20 10:09:03 - Updating Bath Mixers
+2023-06-20 10:09:03 - Updating Bath Mixers with Hand Shower
+2023-06-20 10:09:03 - Updating Floor Mounted Mixers
+2023-06-20 10:09:03 - Updating Floor Mounted Shower Mixers
+2023-06-20 10:09:03 - Updating Bath Spouts
+2023-06-20 10:09:03 - Updating Black Bath Spouts
+2023-06-20 10:09:03 - Updating Swivel Bath Spout
+2023-06-20 10:09:03 - Updating Freestanding Bath Mixers
+2023-06-20 10:09:03 - Updating Bath Taps
+2023-06-20 10:09:03 - Updating Bath Tap Sets
+2023-06-20 10:09:03 - Updating Bath Taps with Hand Shower
+2023-06-20 10:09:03 - Updating Brass Bathroom Tapware
+2023-06-20 10:09:03 - Updating Wall Mounted Bath Taps
+2023-06-20 10:09:03 - Updating Freestanding Baths 1500mm
+2023-06-20 10:09:03 - Updating Black Bathroom Tapware
+2023-06-20 10:09:03 - Updating Back to Wall Baths
+2023-06-20 10:09:03 - Updating Chrome Bathroom Tapware
+2023-06-20 10:09:03 - Updating Gold Bathroom Tapware
+2023-06-20 10:09:03 - Updating Acrylic Baths
+2023-06-20 10:09:03 - Updating Porcelain Baths
+2023-06-20 10:09:03 - Updating Black Baths
+2023-06-20 10:09:03 - Updating Corner Baths
+2023-06-20 10:09:03 - Updating Oval Baths
+2023-06-20 10:09:03 - Updating Bidet Mixers
+2023-06-20 10:09:03 - Updating Round Baths
+2023-06-20 10:09:03 - Updating Square Baths
+2023-06-20 10:09:03 - Updating Stone Baths
+2023-06-20 10:09:03 - Updating Bidet Sprayers
+2023-06-20 10:09:03 - Updating In-Wall Cisterns
+2023-06-20 10:09:03 - Updating Bath Shower Diverters
+2023-06-20 10:09:03 - Updating Flush Buttons
+2023-06-20 10:09:03 - Updating Toilet Buttons
+2023-06-20 10:09:03 - Updating Black Flush Plates
+2023-06-20 10:09:03 - Updating 450mm Shaving Cabinets
+2023-06-20 10:09:03 - Updating 1200mm Shaving Cabinets
+2023-06-20 10:09:03 - Updating 600mm Shaving Cabinets
+2023-06-20 10:09:03 - Updating 750mm Shaving Cabinets
+2023-06-20 10:09:03 - Updating 900mm Shaving Cabinets
+2023-06-20 10:09:03 - Updating Mirrored Shaving Cabinets
+2023-06-20 10:09:03 - Updating Round Shaving Cabinets
+2023-06-20 10:09:03 - Updating Wooden Shaving Cabinets
+2023-06-20 10:09:03 - Updating Shower Sets
+2023-06-20 10:09:03 - Updating Shower Mixers
+2023-06-20 10:09:03 - Updating Oval Spa Baths
+2023-06-20 10:09:03 - Updating Bidet Seats
+2023-06-20 10:09:03 - Updating Decina Spa Baths
+2023-06-20 10:09:03 - Updating Rectangle Spa Baths
+2023-06-20 10:09:03 - Updating Wall Hung Toilets
+2023-06-20 10:09:03 - Updating Quick Release Toilet Seats
+2023-06-20 10:09:03 - Updating Soft Close Toilet Seats
+2023-06-20 10:09:03 - Updating Back to Wall Toilets
+2023-06-20 10:09:03 - Updating 600mm Bathroom Vanities
+2023-06-20 10:09:03 - Updating 1200mm Bathroom Vanities
+2023-06-20 10:09:03 - Updating 1500mm Bathroom Vanities
+2023-06-20 10:09:03 - Updating 1800mm Bathroom Vanities
+2023-06-20 10:09:03 - Updating 750mm Bathroom Vanities
+2023-06-20 10:09:03 - Updating 900mm Bathroom Vanities
+2023-06-20 10:09:03 - Updating Floating Vanities
+2023-06-20 10:09:03 - Updating Wall Hung Vanities
+2023-06-20 10:09:03 - Updating Double Bowl Vanities
+2023-06-20 10:09:03 - Updating Single Bowl Vanities
+2023-06-20 10:09:03 - Updating Oval Shaving Cabinets
+2023-06-20 10:09:03 - Updating 2 Basin Vanities
+2023-06-20 10:09:03 - Updating Wooden Vanities
+2023-06-20 10:09:03 - Updating Timber Vanities
+2023-06-20 10:09:03 - Updating Stratos Special
+2023-06-20 10:09:03 - Updating Stone Top Vanities
+2023-06-20 10:09:03 - Updating Villeroy & Boch Mixer Special
+2023-06-20 10:09:03 - Updating Verotti Smart Toilets
+2023-06-20 10:09:03 - Updating IXL Anaconda Promotion
+2023-06-20 10:09:03 - Updating Drinking Water
+2023-06-20 10:09:03 - Updating Tapware
+2023-06-20 10:09:03 - Updating Hand Held Bidet Sprayers
+2023-06-20 10:09:03 - Updating Bidet Taps
+2023-06-20 10:09:03 - Updating 3 Piece Taps
+2023-06-20 10:09:03 - Updating Mixers with Pull-Out Spray
+2023-06-20 10:09:03 - Updating Wall Top Assemblies
+2023-06-20 10:09:03 - Updating Temperature Control
+2023-06-20 10:09:03 - Updating Floorstanding Mixers
+2023-06-20 10:09:03 - Updating Floor Standing Bath Mixers
+2023-06-20 10:09:03 - Updating Bath Wall Mounted 3 Piece Taps
+2023-06-20 10:09:03 - Updating Bath Hob Mounted 3 Piece Taps
+2023-06-20 10:09:03 - Updating Boiling Water
+2023-06-20 10:09:03 - Updating Chilled Water
+2023-06-20 10:09:03 - Updating Bath & Shower Tapware
+2023-06-20 10:09:03 - Updating Boiling / Ambient
+2023-06-20 10:09:03 - Updating Sensor Taps
+2023-06-20 10:09:03 - Updating Boiling / Chilled
+2023-06-20 10:09:03 - Updating Chilled / Sparkling
+2023-06-20 10:09:03 - Updating Basin Hob Mounted 3 Piece Taps
+2023-06-20 10:09:03 - Updating Basin Wall Mounted 3 Piece Taps
+2023-06-20 10:09:03 - Updating Basin / Wall Top Assemblies
+2023-06-20 10:09:03 - Updating Chilled / Boiling / Sparkling
+2023-06-20 10:09:03 - Updating Basin Hob Mounted Mixers
+2023-06-20 10:09:03 - Updating Basin Tapware
+2023-06-20 10:09:03 - Updating Replacement Cartridges
+2023-06-20 10:09:03 - Updating Bathroom Basins
+2023-06-20 10:09:03 - Updating Wastes & Bottle Traps
+2023-06-20 10:09:03 - Updating Drinking Water Brands
+2023-06-20 10:09:03 - Updating BATHROOM BASINS
+2023-06-20 10:09:03 - Updating Showers
+2023-06-20 10:09:03 - Updating Shower Tapware
+2023-06-20 10:09:03 - Updating Shower Heads
+2023-06-20 10:09:03 - Updating Shower / Floor Wastes & Grates
+2023-06-20 10:09:03 - Updating Shower Spare Parts
+2023-06-20 10:09:03 - Updating Shower Hoses
+2023-06-20 10:09:03 - Updating Shower Wall Brackets
+2023-06-20 10:09:03 - Updating Oval Baths
+2023-06-20 10:09:03 - Updating Shower Accessories & Spare Parts
+2023-06-20 10:09:03 - Updating SHOWERS
+2023-06-20 10:09:03 - Updating Geometric Baths
+2023-06-20 10:09:03 - Updating Baths Less Than 1400
+2023-06-20 10:09:03 - Updating Square Baths
+2023-06-20 10:09:03 - Updating Round Baths
+2023-06-20 10:09:03 - Updating Rectangle Baths
+2023-06-20 10:09:03 - Updating Baths by Shape
+2023-06-20 10:09:03 - Updating Baths 1500 - 1599mm
+2023-06-20 10:09:03 - Updating Baths 1600 - 1699mm
+2023-06-20 10:09:03 - Updating Baths 1400 - 1499mm
+2023-06-20 10:09:03 - Updating Baths 1700 - 1799mm
+2023-06-20 10:09:03 - Updating Baths 1800 - 1899
+2023-06-20 10:09:03 - Updating Bath Tapware
+2023-06-20 10:09:03 - Updating Baths Above 1900mm
+2023-06-20 10:09:03 - Updating Legs & Leg Systems
+2023-06-20 10:09:03 - Updating Bath Single Panel Screens
+2023-06-20 10:09:03 - Updating Bath Double Panel Screens
+2023-06-20 10:09:03 - Updating Bath Screens
+2023-06-20 10:09:03 - Updating Bath Accessories
+2023-06-20 10:09:03 - Updating BATHS
+2023-06-20 10:09:03 - Updating Odourless In-Wall Toilets
+2023-06-20 10:09:03 - Updating Toilet Accessories
+2023-06-20 10:09:03 - Updating Kitchen Trays
+2023-06-20 10:09:03 - Updating Kitchen Accessories
+2023-06-20 10:09:04 - Updating Cutting Boards
+2023-06-20 10:09:04 - Updating In-Wall Floor Mounted Toilets
+2023-06-20 10:09:04 - Updating Gas Storage
+2023-06-20 10:09:04 - Updating Electric Storage
+2023-06-20 10:09:04 - Updating Gas Continuous Flow
+2023-06-20 10:09:04 - Updating ACCESSORIES
+2023-06-20 10:09:04 - Updating Vanities
+2023-06-20 10:09:04 - Updating Vanity Brands
+2023-06-20 10:09:04 - Updating Most Affordable Vanities
+2023-06-20 10:09:04 - Updating Spare Parts
+2023-06-20 10:09:04 - Updating Bathroom Furniture
+2023-06-20 10:09:04 - Updating Vanities 900 - 1199mm
+2023-06-20 10:09:04 - Updating Vanities Less Than 600mm
+2023-06-20 10:09:04 - Updating Vanities 600 - 899mm
+2023-06-20 10:09:04 - Updating Vanities 1200 - 1499mm
+2023-06-20 10:09:04 - Updating Vanities 1500 - 1799mm
+2023-06-20 10:09:04 - Updating Vanities 1800 and Above
+2023-06-20 10:09:04 - Updating Laundry Tubs
+2023-06-20 10:09:04 - Updating Laundry
+2023-06-20 10:09:04 - Updating Basket Wastes
+2023-06-20 10:09:04 - Updating Sink Wastes and Food Waste Disposers
+2023-06-20 10:09:04 - Updating Double Bowl Sinks
+2023-06-20 10:09:04 - Updating Single Bowl Sinks
+2023-06-20 10:09:04 - Updating Kitchen Sinks
+2023-06-20 10:09:04 - Updating Configurator Wall Hung Vanities
+2023-06-20 10:09:04 - Updating Configurator Freestanding Vanities
+2023-06-20 10:09:04 - Updating VANITIES & FURNITURE
+2023-06-20 10:09:04 - Updating Flush Plate
+2023-06-20 10:09:04 - Updating Sinks Under 400mm
+2023-06-20 10:09:04 - Updating Sinks 400 - 499mm
+2023-06-20 10:09:04 - Updating Sinks 500 - 599mm
+2023-06-20 10:09:04 - Updating Sinks 600 - 699mm
+2023-06-20 10:09:04 - Updating Sinks 700 - 799mm
+2023-06-20 10:09:04 - Updating Sinks 800 - 899mm
+2023-06-20 10:09:04 - Updating Sinks Above 900mm
+2023-06-20 10:09:04 - Updating Close Coupled & Link Toilets
+2023-06-20 10:09:04 - Updating Toilet Suites
+2023-06-20 10:09:04 - Updating Ready to Ship In-Wall Toilets
+2023-06-20 10:09:04 - Updating Ready to Ship Toilet Suites
+2023-06-20 10:09:04 - Updating Ready to Ship Close-Coupled Toilets
+2023-06-20 10:09:04 - Updating Ready to Ship Smart Toilets
+2023-06-20 10:09:04 - Updating Back to Wall Smart Toilets
+2023-06-20 10:09:04 - Updating Back to Wall Smart Toilets
+2023-06-20 10:09:04 - Updating Floor Mounted Smart Toilets
+2023-06-20 10:09:04 - Updating Wall Hung Smart Toilets
+2023-06-20 10:09:04 - Updating Sinks and Tubs
+2023-06-20 10:09:04 - Updating Ready to Ship Smart Toilets
+2023-06-20 10:09:04 - Updating Floor Mounted Toilet Pans
+2023-06-20 10:09:04 - Updating Close Coupled Toilet Pans
+2023-06-20 10:09:04 - Updating Bidets
+2023-06-20 10:09:04 - Updating Vanity Configurator
+2023-06-20 10:09:04 - Updating Urinals & Commercial
+2023-06-20 10:09:04 - Updating Cisterns & Toilet Seats
+2023-06-20 10:09:04 - Updating Bidet Washlets & Tapware
+2023-06-20 10:09:04 - Updating Toilet Pans
+2023-06-20 10:09:04 - Updating Nevada Vanities
+2023-06-20 10:09:04 - Updating On Sale
+2023-06-20 10:09:04 - Updating New Arrivals
+2023-06-20 10:09:04 - Updating TOTO EOFY SALE
+2023-06-20 10:09:04 - Updating Duravit May Special
+2023-06-20 10:09:04 - Updating Toilet Suites & Showers
+2023-06-20 10:09:04 - Updating Boost All
+2023-06-20 10:09:04 - Updating Gold
+2023-06-20 10:09:04 - Updating Black
+2023-06-20 10:09:04 - Updating Chrome
+2023-06-20 10:09:04 - Updating Rose Gold
+2023-06-20 10:09:04 - Updating Fixed Panel Shower Screens
+2023-06-20 10:09:04 - Updating Corner Shower Screens
+2023-06-20 10:09:04 - Updating Wall-to-Wall Showers
+2023-06-20 10:09:04 - Updating Brushed Gold
+2023-06-20 10:09:04 - Updating Gun Metal
+2023-06-20 10:09:04 - Updating Brushed Nickel
+2023-06-20 10:09:04 - Updating Brushed Rose Gold
+2023-06-20 10:09:04 - Updating Stainless Steel
+2023-06-20 10:09:04 - Updating Brass
+2023-06-20 10:09:04 - Updating Shop By Colour
+2023-06-20 10:09:04 - Updating Appliances
+2023-06-20 10:09:04 - Updating Euro Appliances
+2023-06-20 10:09:04 - Updating Ovens
+2023-06-20 10:09:04 - Updating Refridgerators
+2023-06-20 10:09:04 - Updating Cooktops
+2023-06-20 10:09:04 - Updating Dishwashers
+2023-06-20 10:09:04 - Updating Kitchen Appliances
+2023-06-20 10:09:04 - Updating Laundry Appliances
+2023-06-20 10:09:04 - Updating Washing Machines
+2023-06-20 10:09:04 - Updating Dryers
+2023-06-20 10:09:04 - Updating BBQ
+2023-06-20 10:09:04 - Updating Zip Cashback June 2023
+2023-06-20 10:09:04 - Updating Heaters
+2023-06-20 10:09:04 - Updating Billi Cashback June 2023
+2023-06-20 10:09:04 - Updating Quickship Vanities
+2023-06-20 10:09:04 - Updating Turner Hastings Vanity Promotion
+2023-06-20 10:09:04 - Updating Plumbing & Spares
+2023-06-20 10:09:04 - Updating Hardware Building & Outdoor
+2023-06-20 10:09:04 - Updating Hot Water
+2023-06-20 10:09:04 - Updating Bathrooms
+2023-06-20 10:09:04 - Updating Kitchen & Laundry
+2023-06-20 10:09:04 - Updating Baths
+2023-06-20 10:09:04 - Updating Taps
+2023-06-20 10:09:04 - Updating Basins
+2023-06-20 10:09:04 - Updating Toilets
+2023-06-20 10:09:04 - Updating Urinals
+2023-06-20 10:09:04 - Updating Shower Bases & Screens
+2023-06-20 10:09:04 - Updating Bathroom Accessories
+2023-06-20 10:09:04 - Updating Flush Plates & Buttons
+2023-06-20 10:09:04 - Updating Undermount
+2023-06-20 10:09:04 - Updating Topmount / Inset
+2023-06-20 10:09:04 - Updating Smart Toilets
+2023-06-20 10:09:04 - Updating Sinks & Tubs
+2023-06-20 10:09:04 - Updating Kitchen Tapware
+2023-06-20 10:09:04 - Updating Back To Wall Toilets
+2023-06-20 10:09:04 - Updating Above Counter Basins
+2023-06-20 10:09:04 - Updating Sink Mixers with Pull Out Spray
+2023-06-20 10:09:04 - Updating Filtered Water
+2023-06-20 10:09:04 - Updating Filtered Water
+2023-06-20 10:09:04 - Updating Water Filtered Systems
+2023-06-20 10:09:04 - Updating Water Filtered Systems
+2023-06-20 10:09:04 - Updating Boiling / Chilled / Sparkling Filter Systems
+2023-06-20 10:09:04 - Updating Boiling / Chilled / Sparkling Filter Systems
+2023-06-20 10:09:04 - Updating Showers
+2023-06-20 10:09:04 - Updating Showers on Rails
+2023-06-20 10:09:04 - Updating Toilet Roll Holders
+2023-06-20 10:09:04 - Updating Hand Towel Rails & Rings
+2023-06-20 10:09:04 - Updating Heated Bathroom Accessories
+2023-06-20 10:09:04 - Updating Heat Lamps
+2023-06-20 10:09:04 - Updating Inset Basins
+2023-06-20 10:09:04 - Updating Console Basins
+2023-06-20 10:09:04 - Updating Wall Hung Toilet Pans
+2023-06-20 10:09:04 - Updating Cisterns
+2023-06-20 10:09:04 - Updating Commercial & Care
+2023-06-20 10:09:04 - Updating Commercial Bathroom
+2023-06-20 10:09:04 - Updating Urinals
+2023-06-20 10:09:04 - Updating Freestanding Baths
+2023-06-20 10:09:04 - Updating Island Baths
+2023-06-20 10:09:04 - Updating Built in Baths
+2023-06-20 10:09:04 - Updating Spa Baths
+2023-06-20 10:09:04 - Updating Food Waste Disposers
+2023-06-20 10:09:04 - Updating In Sink Disposer
+2023-06-20 10:09:04 - Updating Floor Standing Mixers
+2023-06-20 10:09:04 - Updating Floor Standing Mixers
+2023-06-20 10:09:04 - Updating Semi Recessed Basins
+2023-06-20 10:09:04 - Updating On Sale
+2023-06-20 10:09:04 - Updating Specials
+2023-06-20 10:09:04 - Updating Sink Mixers
+2023-06-20 10:09:04 - Updating Robe Hooks
+2023-06-20 10:09:04 - Updating Close Coupled Toilets
+2023-06-20 10:09:04 - Updating Bathroom Furniture
+2023-06-20 10:09:04 - Updating Wall Hung Vanities
+2023-06-20 10:09:04 - Updating Wall Mixers
+2023-06-20 10:09:04 - Updating Rain / Ceiling Showers
+2023-06-20 10:09:04 - Updating Bathroom Furniture
+2023-06-20 10:09:04 - Updating Linen & Wall Cabinets
+2023-06-20 10:09:04 - Updating Storage Hot Water Systems
+2023-06-20 10:09:04 - Updating Rheem Gas Storage
+2023-06-20 10:09:04 - Updating Spouts
+2023-06-20 10:09:04 - Updating Continuous Flow Hot Water System
+2023-06-20 10:09:04 - Updating Rinnai Gas Continuous Flow
+2023-06-20 10:09:04 - Updating Floor Mounted Toilet Pans
+2023-06-20 10:09:04 - Updating Accessories
+2023-06-20 10:09:04 - Updating Disabled & Aged Care
+2023-06-20 10:09:04 - Updating Back Rests
+2023-06-20 10:09:04 - Updating Grab Rails
+2023-06-20 10:09:04 - Updating Wall Hung Basins
+2023-06-20 10:09:04 - Updating Plumbing & Spare Parts
+2023-06-20 10:09:04 - Updating Toilet Seats
+2023-06-20 10:09:04 - Updating Three Piece Tapware
+2023-06-20 10:09:04 - Updating Outdoor Showers
+2023-06-20 10:09:04 - Updating Towel Rails
+2023-06-20 10:09:04 - Updating Soap Dishes
+2023-06-20 10:09:04 - Updating Drainage & Wastes
+2023-06-20 10:09:04 - Updating Bath & Basin Wastes
+2023-06-20 10:09:04 - Updating Thermostatic Mixers
+2023-06-20 10:09:04 - Updating Thermostatic Mixers
+2023-06-20 10:09:04 - Updating Soap Dispensers
+2023-06-20 10:09:04 - Updating Ventilation System
+2023-06-20 10:09:04 - Updating Link Toilet Suites
+2023-06-20 10:09:04 - Updating Toilet Brush Holders
+2023-06-20 10:09:04 - Updating Bathroom Shelves & Baskets
+2023-06-20 10:09:04 - Updating Bidet Mixers
+2023-06-20 10:09:04 - Updating Bathroom Mirrors
+2023-06-20 10:09:04 - Updating Floor Wastes
+2023-06-20 10:09:04 - Updating Shaving Cabinets
+2023-06-20 10:09:04 - Updating Bottle Traps
+2023-06-20 10:09:04 - Updating Laundry Tub with Cabinets
+2023-06-20 10:09:04 - Updating Under Counter Basins
+2023-06-20 10:09:04 - Updating Linear Drains
+2023-06-20 10:09:04 - Updating Basins
+2023-06-20 10:09:04 - Updating Basins
+2023-06-20 10:09:04 - Updating Shower Seats
+2023-06-20 10:09:04 - Updating Underfloor Heating
+2023-06-20 10:09:04 - Updating Rheem Electric Storage
+2023-06-20 10:09:04 - Updating Bathroom Panels
+2023-06-20 10:09:04 - Updating Panels
+2023-06-20 10:09:04 - Updating Profiles
+2023-06-20 10:09:04 - Updating Water Filter Cartridges
+2023-06-20 10:09:04 - Updating Water Filter Cartridges
+2023-06-20 10:09:04 - Updating Water Filter Cartridges
+2023-06-20 10:09:04 - Updating Showers
+2023-06-20 10:09:04 - Updating Pumps
+2023-06-20 10:09:04 - Updating Submersible Pumps
+2023-06-20 10:09:04 - Updating Grey Water Pumps
+2023-06-20 10:09:04 - Updating New Products
+2023-06-20 10:09:04 - Updating Manual Openable Skylights
+2023-06-20 10:09:04 - Updating Velux Skylights
+2023-06-20 10:09:04 - Updating Kitchen Sinks Packages
+2023-06-20 10:09:04 - Updating Electric Openable Skylights
+2023-06-20 10:09:04 - Updating DIY Screens
+2023-06-20 10:09:04 - Updating Shower Cubicles
+2023-06-20 10:09:04 - Updating Sinks & Laundry Units
+2023-06-20 10:09:04 - Updating Custom Made
+2023-06-20 10:09:04 - Updating Architectural Glass
+2023-06-20 10:09:04 - Updating Outdoor Heaters
+2023-06-20 10:09:04 - Updating Electric Heater
+2023-06-20 10:09:04 - Updating Toilet Macerator Pumps
+2023-06-20 10:09:04 - Updating Freestanding Basins
+2023-06-20 10:09:04 - Updating Exhaust Fans
+2023-06-20 10:09:04 - Updating Hand Held Showers
+2023-06-20 10:09:04 - Updating Basins
+2023-06-20 10:09:04 - Updating Shower Systems
+2023-06-20 10:09:04 - Updating Grills
+2023-06-20 10:09:04 - Updating Ducting
+2023-06-20 10:09:04 - Updating Brands
+2023-06-20 10:09:04 - Updating Clark
+2023-06-20 10:09:04 - Updating Parisi
+2023-06-20 10:09:04 - Updating Caroma
+2023-06-20 10:09:04 - Updating Cube
+2023-06-20 10:09:04 - Updating Paco Jaanson
+2023-06-20 10:09:04 - Updating KWC
+2023-06-20 10:09:04 - Updating Zip
+2023-06-20 10:09:04 - Updating Avenir
+2023-06-20 10:09:04 - Updating Tago
+2023-06-20 10:09:04 - Updating IXL
+2023-06-20 10:09:04 - Updating Insinkerator
+2023-06-20 10:09:04 - Updating Duravit
+2023-06-20 10:09:04 - Updating Victoria + Albert
+2023-06-20 10:09:04 - Updating Geberit
+2023-06-20 10:09:04 - Updating Fowler
+2023-06-20 10:09:04 - Updating DADOquartz
+2023-06-20 10:09:04 - Updating Decina
+2023-06-20 10:09:04 - Updating Kaldewei
+2023-06-20 10:09:04 - Updating Oliveri
+2023-06-20 10:09:04 - Updating Dorf
+2023-06-20 10:09:04 - Updating Studio Bagno
+2023-06-20 10:09:04 - Updating Hansa
+2023-06-20 10:09:04 - Updating Armando Vicario
+2023-06-20 10:09:04 - Updating Franke
+2023-06-20 10:09:04 - Updating Rheem
+2023-06-20 10:09:04 - Updating Rinnai
+2023-06-20 10:09:04 - Updating Turner Hastings
+2023-06-20 10:09:04 - Updating Gentec
+2023-06-20 10:09:04 - Updating Haron
+2023-06-20 10:09:04 - Updating Argent
+2023-06-20 10:09:04 - Updating Sussex
+2023-06-20 10:09:04 - Updating Valsir
+2023-06-20 10:09:04 - Updating Deflecto
+2023-06-20 10:09:04 - Updating Plus
+2023-06-20 10:09:04 - Updating Bounty Brassware
+2023-06-20 10:09:04 - Updating Minus
+2023-06-20 10:09:04 - Updating Base
+2023-06-20 10:09:05 - Updating Streamline
+2023-06-20 10:09:05 - Updating Timberline
+2023-06-20 10:09:05 - Updating Universal
+2023-06-20 10:09:05 - Updating Urbane
+2023-06-20 10:09:05 - Updating Stylus
+2023-06-20 10:09:05 - Updating Verotti
+2023-06-20 10:09:05 - Updating Carboni
+2023-06-20 10:09:05 - Updating Liano
+2023-06-20 10:09:05 - Updating Milena
+2023-06-20 10:09:05 - Updating Stormtech
+2023-06-20 10:09:05 - Updating Master Rail
+2023-06-20 10:09:05 - Updating Artizen
+2023-06-20 10:09:05 - Updating Nefa
+2023-06-20 10:09:05 - Updating Cubo
+2023-06-20 10:09:05 - Updating Solo
+2023-06-20 10:09:05 - Updating Hybrid
+2023-06-20 10:09:05 - Updating Fluid
+2023-06-20 10:09:05 - Updating Form
+2023-06-20 10:09:05 - Updating Ventair
+2023-06-20 10:09:05 - Updating Metlam
+2023-06-20 10:09:05 - Updating Hotwire
+2023-06-20 10:09:05 - Updating Allvent
+2023-06-20 10:09:05 - Updating Care
+2023-06-20 10:09:05 - Updating Marblo
+2023-06-20 10:09:05 - Updating Rainware
+2023-06-20 10:09:05 - Updating Hydrotherm
+2023-06-20 10:09:05 - Updating Panelscape
+2023-06-20 10:09:05 - Updating Phoenix Tapware
+2023-06-20 10:09:05 - Updating Bathroom Furniture
+2023-06-20 10:09:05 - Updating Contura
+2023-06-20 10:09:05 - Updating Ledin Australia
+2023-06-20 10:09:05 - Updating PLD
+2023-06-20 10:09:05 - Updating Air Conditioning
+2023-06-20 10:09:05 - Updating Split System
+2023-06-20 10:09:05 - Updating Moon
+2023-06-20 10:09:05 - Updating Teo 2.0
+2023-06-20 10:09:05 - Updating Above
+2023-06-20 10:09:05 - Updating Xylo
+2023-06-20 10:09:05 - Updating Bizu
+2023-06-20 10:09:05 - Updating Beyond
+2023-06-20 10:09:05 - Updating Econ
+2023-06-20 10:09:05 - Updating Xylo Rails
+2023-06-20 10:09:05 - Updating Billi
+2023-06-20 10:09:05 - Updating Rifco
+2023-06-20 10:09:05 - Updating Accessories
+2023-06-20 10:09:05 - Updating Fixed Skylights
+2023-06-20 10:09:05 - Updating Coway
+2023-06-20 10:09:05 - Updating Flexispray
+2023-06-20 10:09:05 - Updating Sterling
+2023-06-20 10:09:05 - Updating Davey
+2023-06-20 10:09:05 - Updating Puretec
+2023-06-20 10:09:05 - Updating Hand Spray
+2023-06-20 10:09:05 - Updating The Bidet Shop
+2023-06-20 10:09:05 - Updating Fix a Tap
+2023-06-20 10:09:05 - Updating Bette
+2023-06-20 10:09:05 - Updating Cupid
+2023-06-20 10:09:05 - Updating Sunstone
+2023-06-20 10:09:05 - Updating Saniflo
+2023-06-20 10:09:05 - Updating K R Lucas & Co
+2023-06-20 10:09:05 - Updating Oschin
+2023-06-20 10:09:05 - Updating Continuous Flow Hot Water Systems
+2023-06-20 10:09:05 - Updating Storage Hot Water System
+2023-06-20 10:09:05 - Updating Rinnai Instant Hot Water System
+2023-06-20 10:09:05 - Updating Velux
+2023-06-20 10:09:05 - Updating Rheem Gas Storage
+2023-06-20 10:09:05 - Updating Rheem Electric Storage
+2023-06-20 10:09:05 - Updating Inspirations
+2023-06-20 10:09:05 - Updating TOTO
+2023-06-20 10:09:05 - Updating Curves Collection
+2023-06-20 10:09:05 - Updating Modern Collection
+2023-06-20 10:09:05 - Updating Black & White Collection
+2023-06-20 10:09:05 - Updating Gareth Ashton
+2023-06-20 10:09:05 - Updating Villeroy & Boch
+2023-06-20 10:09:05 - Updating Hansgrohe
+2023-06-20 10:09:05 - Updating Floor Mounted Toilet Packages
+2023-06-20 10:09:05 - Updating Blanco
+2023-06-20 10:09:05 - Updating Newform
+2023-06-20 10:09:05 - Updating Abey
+2023-06-20 10:09:05 - Updating Gessi
+2023-06-20 10:09:05 - Updating Methven
+2023-06-20 10:09:05 - Updating Brodware
+2023-06-20 10:09:05 - Updating Wall Hung Toilet Packages
+2023-06-20 10:09:05 - Updating Gallaria
+2023-06-20 10:09:05 - Updating Reginox
+2023-06-20 10:09:05 - Updating Pietra Bianca
+2023-06-20 10:09:05 - Updating Xeric
+2023-06-20 10:09:05 - Updating Brio
+2023-06-20 10:09:05 - Updating Abask
+2023-06-20 10:09:05 - Updating Titan
+2023-06-20 10:09:05 - Updating Luna
+2023-06-20 10:09:05 - Updating Grates 2 Go Australia
+2023-06-20 10:09:05 - Updating Rinnai Electric Storage
+2023-06-20 10:09:05 - Updating Throne
+2023-06-20 10:09:05 - Updating Rinnai Electric Storage Hot Water Heater
+2023-06-20 10:09:05 - Updating Rinnai Gas Storage
+2023-06-20 10:09:05 - Updating Rinnai Gas Storage Hot Water Heater
+2023-06-20 10:09:05 - Updating Viega
+2023-06-20 10:09:05 - Updating Rheem Gas Continuous Flow
+2023-06-20 10:09:05 - Updating Stocktake Sale
+2023-06-20 10:09:05 - Updating Marquis
+2023-06-20 10:09:05 - Updating Nordic Collection
+2023-06-20 10:09:05 - Updating Traditional Collection
+2023-06-20 10:09:05 - Updating Co2 Replacement Cylinder Kit
+2023-06-20 10:09:05 - Updating Co2 Replacement Cylinder Kit
+2023-06-20 10:09:05 - Updating Food Waste Disposers
+2023-06-20 10:09:05 - Updating Water Filters
+2023-06-20 10:09:05 - Updating Taqua
+2023-06-20 10:09:05 - Updating Kitchen Sinks
+2023-06-20 10:09:05 - Updating Bathroom Accessories
+2023-06-20 10:09:05 - Updating Hot Water System Accessories
+2023-06-20 10:09:05 - Updating Hot Water System Accessories
+2023-06-20 10:09:05 - Updating Replacement Showers Accessories
+2023-06-20 10:09:05 - Updating Aquas
+2023-06-20 10:09:05 - Updating Showers
+2023-06-20 10:09:05 - Updating Underfloor Heating
+2023-06-20 10:09:05 - Updating Rinnai Installation Options
+2023-06-20 10:09:05 - Updating Rheem Installation Options
+2023-06-20 10:09:05 - Updating Clark Brand
+2023-06-20 10:09:05 - Updating Toilet Spare Parts
+2023-06-20 10:09:05 - Updating Aqualogic NT
+2023-06-20 10:09:05 - Updating Ozone Kitchen Mixer
+2023-06-20 10:09:05 - Updating Tapware Spare Parts
+2023-06-20 10:09:05 - Updating Auscan
+2023-06-20 10:09:05 - Updating Tapware Cartridges
+2023-06-20 10:09:05 - Updating Bathroom Heating Accessories
+2023-06-20 10:09:05 - Updating Pedestal Basins
+2023-06-20 10:09:05 - Updating Pedestal Basins
+2023-06-20 10:09:05 - Updating Towel Ladders
+2023-06-20 10:09:05 - Updating Fima
+2023-06-20 10:09:05 - Updating Flat Roof Skylights
+2023-06-20 10:09:05 - Updating FLEX CONN
+2023-06-20 10:09:05 - Updating Fluidmaster
+2023-06-20 10:09:05 - Updating Fernco
+2023-06-20 10:09:05 - Updating Bromic
+2023-06-20 10:09:05 - Updating Bostik
+2023-06-20 10:09:05 - Updating Sealants & Adhesives
+2023-06-20 10:09:05 - Updating Aquaknect
+2023-06-20 10:09:05 - Updating Pipe & Fittings
+2023-06-20 10:09:05 - Updating Evolve Group
+2023-06-20 10:09:05 - Updating E. H. Dark & Son
+2023-06-20 10:09:05 - Updating Shower Accessories
+2023-06-20 10:09:05 - Updating Wall Showers
+2023-06-20 10:09:05 - Updating Water Filters Australia
+2023-06-20 10:09:05 - Updating Brasshards
+2023-06-20 10:09:05 - Updating Fix A Loo
+2023-06-20 10:09:05 - Updating Gessi 316
+2023-06-20 10:09:05 - Updating Toilet Seats
+2023-06-20 10:09:05 - Updating Cono
+2023-06-20 10:09:05 - Updating JEE-O
+2023-06-20 10:09:05 - Updating Eleganza
+2023-06-20 10:09:05 - Updating Emporio
+2023-06-20 10:09:05 - Updating Goccia
+2023-06-20 10:09:05 - Updating Rettangolo
+2023-06-20 10:09:05 - Updating Alia
+2023-06-20 10:09:05 - Updating Vivid
+2023-06-20 10:09:05 - Updating Toi
+2023-06-20 10:09:05 - Updating Vivid Slimline
+2023-06-20 10:09:05 - Updating Mekko
+2023-06-20 10:09:05 - Updating Nostalgia
+2023-06-20 10:09:05 - Updating Rush
+2023-06-20 10:09:05 - Updating Radii
+2023-06-20 10:09:05 - Updating Blade
+2023-06-20 10:09:05 - Updating Flow
+2023-06-20 10:09:05 - Updating Tondo
+2023-06-20 10:09:05 - Updating Simas
+2023-06-20 10:09:05 - Updating Cameo
+2023-06-20 10:09:05 - Updating Linfa
+2023-06-20 10:09:05 - Updating Twenty
+2023-06-20 10:09:05 - Updating Domiziani
+2023-06-20 10:09:05 - Updating Quadro
+2023-06-20 10:09:05 - Updating Seed
+2023-06-20 10:09:05 - Updating Jazz
+2023-06-20 10:09:05 - Updating Tole
+2023-06-20 10:09:05 - Updating Hermitage
+2023-06-20 10:09:05 - Updating Iks
+2023-06-20 10:09:05 - Updating Bianco
+2023-06-20 10:09:05 - Updating Ovo
+2023-06-20 10:09:05 - Updating Pop
+2023-06-20 10:09:05 - Updating Shard X
+2023-06-20 10:09:05 - Updating Shard
+2023-06-20 10:09:05 - Updating Manhattan
+2023-06-20 10:09:05 - Updating Cross
+2023-06-20 10:09:05 - Updating Round Blade
+2023-06-20 10:09:05 - Updating Round Pin
+2023-06-20 10:09:05 - Updating Round Square
+2023-06-20 10:09:05 - Updating Round
+2023-06-20 10:09:05 - Updating Square
+2023-06-20 10:09:05 - Updating Gloss
+2023-06-20 10:09:05 - Updating Cerchio
+2023-06-20 10:09:05 - Updating Winslow
+2023-06-20 10:09:05 - Updating Neu England
+2023-06-20 10:09:05 - Updating Manhattan
+2023-06-20 10:09:05 - Updating Industrica
+2023-06-20 10:09:05 - Updating Yokato
+2023-06-20 10:09:05 - Updating Michelangelo
+2023-06-20 10:09:05 - Updating City Stik
+2023-06-20 10:09:05 - Updating Halo
+2023-06-20 10:09:05 - Updating SQ75
+2023-06-20 10:09:05 - Updating SQ73
+2023-06-20 10:09:05 - Updating City Que
+2023-06-20 10:09:05 - Updating Classique
+2023-06-20 10:09:05 - Updating City Plus
+2023-06-20 10:09:05 - Updating O.novo
+2023-06-20 10:09:05 - Updating Dawn
+2023-06-20 10:09:05 - Updating Subway
+2023-06-20 10:09:05 - Updating Squaro
+2023-06-20 10:09:05 - Updating Oberon
+2023-06-20 10:09:05 - Updating Venticello
+2023-06-20 10:09:05 - Updating Architectura
+2023-06-20 10:09:05 - Updating Safety Trays
+2023-06-20 10:09:05 - Updating Wall Bracket Kit
+2023-06-20 10:09:05 - Updating HPM
+2023-06-20 10:09:05 - Updating Polyslab Base
+2023-06-20 10:09:05 - Updating Vanities & Furniture
+2023-06-20 10:09:05 - Updating Vanities
+2023-06-20 10:09:05 - Updating Bath Outlets
+2023-06-20 10:09:05 - Updating Smart Toilets
+2023-06-20 10:09:05 - Updating Freestanding Vanities
+2023-06-20 10:09:05 - Updating Nara
+2023-06-20 10:09:05 - Updating Vivid Slimline Up
+2023-06-20 10:09:05 - Updating Teel
+2023-06-20 10:09:05 - Updating Insinkerator Spare Parts
+2023-06-20 10:09:05 - Updating Storage Hot Water Installation
+2023-06-20 10:09:05 - Updating Ram Tapware
+2023-06-20 10:09:05 - Updating Continuous Flow Hot Water Installation
+2023-06-20 10:09:05 - Updating Shaws
+2023-06-20 10:09:05 - Updating Aqua Pure
+2023-06-20 10:09:05 - Updating Vanities & Furniture
+2023-06-20 10:09:05 - Updating Kitchen Accessories
+2023-06-20 10:09:05 - Updating Wall Hung Vanities
+2023-06-20 10:09:05 - Updating Freestanding Vanities
+2023-06-20 10:09:05 - Updating Yokato Disc
+2023-06-20 10:09:05 - Updating Hand Dryers
+2023-06-20 10:09:05 - Updating Halo Marble
+2023-06-20 10:09:05 - Updating Lucia
+2023-06-20 10:09:05 - Updating Park Avenue
+2023-06-20 10:09:05 - Updating Poco
+2023-06-20 10:09:05 - Updating Stile
+2023-06-20 10:09:05 - Updating Madison Avenue
+2023-06-20 10:09:05 - Updating Clearwater Stone
+2023-06-20 10:09:05 - Updating Calibre
+2023-06-20 10:09:05 - Updating Circa
+2023-06-20 10:09:05 - Updating Monsoon
+2023-06-20 10:09:05 - Updating Voda
+2023-06-20 10:09:05 - Updating Ellisse
+2023-06-20 10:09:05 - Updating Evo
+2023-06-20 10:09:05 - Updating Suba
+2023-06-20 10:09:05 - Updating Shaving Cabinets
+2023-06-20 10:09:05 - Updating Franke Bonus High Flow Water Filter
+2023-06-20 10:09:05 - Updating Cut
+2023-06-20 10:09:05 - Updating Track
+2023-06-20 10:09:05 - Updating Form
+2023-06-20 10:09:05 - Updating Nur
+2023-06-20 10:09:05 - Updating Spy
+2023-06-20 10:09:05 - Updating Stiebel Eltron Heat Pump Hot Water System
+2023-06-20 10:09:05 - Updating Cesello
+2023-06-20 10:09:05 - Updating Heat Pumps
+2023-06-20 10:09:05 - Updating Flushing System
+2023-06-20 10:09:05 - Updating Showers
+2023-06-20 10:09:05 - Updating Natural Stone
+2023-06-20 10:09:05 - Updating Paris
+2023-06-20 10:09:05 - Updating NX with Hydrosense
+2023-06-20 10:09:05 - Updating Atelier
+2023-06-20 10:09:05 - Updating Commercial & Care
+2023-06-20 10:09:06 - Updating Commercial Kitchen
+2023-06-20 10:09:06 - Updating Loom
+2023-06-20 10:09:06 - Updating Zimi
+2023-06-20 10:09:06 - Updating Ortho
+2023-06-20 10:09:06 - Updating Showers
+2023-06-20 10:09:06 - Updating Sinks
+2023-06-20 10:09:06 - Updating Expella
+2023-06-20 10:09:06 - Updating MAMO
+2023-06-20 10:09:06 - Updating Hand Sprayer
+2023-06-20 10:09:06 - Updating Rinnai Recess Boxes
+2023-06-20 10:09:06 - Updating Odourless Toilets
+2023-06-20 10:09:06 - Updating Back To Wall Toilets
+2023-06-20 10:09:06 - Updating Floor Mount Toilet Packages
+2023-06-20 10:09:06 - Updating Wall Hung Toilet Packages
+2023-06-20 10:09:06 - Updating Bespoke
+2023-06-20 10:09:06 - Updating Packages
+2023-06-20 10:09:06 - Updating Parisi Linfa Floor Mount Toilet Packages
+2023-06-20 10:09:06 - Updating Stiebel Eltron
+2023-06-20 10:09:06 - Updating Stiebel Eltron Water Heaters
+2023-06-20 10:09:06 - Updating Stiebel Eltron Storage Water Heater
+2023-06-20 10:09:06 - Updating Indoor Heaters
+2023-06-20 10:09:06 - Updating Stiebel Eltron Electric Heaters
+2023-06-20 10:09:06 - Updating Soap Dispensers
+2023-06-20 10:09:06 - Updating Roller Mats
+2023-06-20 10:09:06 - Updating Bidet Seats Only
+2023-06-20 10:09:06 - Updating Back To Wall Bidets
+2023-06-20 10:09:06 - Updating Wall Hung Bidets
+2023-06-20 10:09:06 - Updating Floor Mount Bidets
+2023-06-20 10:09:06 - Updating Close Coupled Bidets
+2023-06-20 10:09:06 - Updating Fireclay / Ceramic / Butler Sinks
+2023-06-20 10:09:06 - Updating Linsol
+2023-06-20 10:09:06 - Updating Acquerello
+2023-06-20 10:09:06 - Updating Bathe
+2023-06-20 10:09:06 - Updating Blanco SUBLINE & LINUS-S Package Promotion
+2023-06-20 10:09:06 - Updating TOTO Spring Sale 2021
+2023-06-20 10:09:06 - Updating Stands/Stools & Accessories
+2023-06-20 10:09:06 - Updating Millennium Tapware
+2023-06-20 10:09:06 - Updating Schell
+2023-06-20 10:09:06 - Updating Ventilation Kits
+2023-06-20 10:09:06 - Updating Specials
+2023-06-20 10:09:06 - Updating Valves
+2023-06-20 10:09:06 - Updating InteliClean
+2023-06-20 10:09:06 - Updating Argent Toilet Package Deals
+2023-06-20 10:09:06 - Updating Cassa Design
+2023-06-20 10:09:06 - Updating Wall Hung Bidet Packages
+2023-06-20 10:09:06 - Updating Floor Mount Bidet Packages
+2023-06-20 10:09:06 - Updating Inciso
+2023-06-20 10:09:06 - Updating Bathroom Butler
+2023-06-20 10:09:06 - Updating Foster
+2023-06-20 10:09:06 - Updating Hammock Bath
+2023-06-20 10:09:06 - Updating Grohe
+2023-06-20 10:09:06 - Updating Pipe and Drain Cleaning
+2023-06-20 10:09:06 - Updating Vita
+2023-06-20 10:09:06 - Updating Test
+2023-06-20 10:09:06 - Updating 3monkeez
+2023-06-20 10:09:06 - Updating Emroware
+2023-06-20 10:09:06 - Updating Reln
+2023-06-20 10:09:06 - Updating Linkware
+2023-06-20 10:09:06 - Updating Greens
+2023-06-20 10:09:06 - Updating Lexi MKII
+2023-06-20 10:09:06 - Updating Pina
+2023-06-20 10:09:06 - Updating Ace
+2023-06-20 10:09:06 - Updating inVogue
+2023-06-20 10:09:06 - Updating Bath/Shower System
+2023-06-20 10:09:06 - Updating Universal
+2023-06-20 10:09:06 - Updating Elson
+2023-06-20 10:09:06 - Updating Laundry Taps
+2023-06-20 10:09:06 - Updating Stratos
+2023-06-20 10:09:06 - Updating Milu Odourless
+2023-06-20 10:09:06 - Updating Tools
+2023-06-20 10:09:06 - Updating Bahco
+2023-06-20 10:09:06 - Updating Odourless Toilets
+2023-06-20 10:09:06 - Updating Floor Waste
+2023-06-20 10:09:06 - Updating Foot Rests
+2023-06-20 10:09:06 - Updating Black Fittings
+2023-06-20 10:09:06 - Updating Rose Gold
+2023-06-20 10:09:06 - Updating Gun-Metal
+2023-06-20 10:09:06 - Updating Brushed Nickel
+2023-06-20 10:09:06 - Updating Chrome
+2023-06-20 10:09:06 - Updating All Drawer
+2023-06-20 10:09:06 - Updating Door Only
+2023-06-20 10:09:06 - Updating Co2 Refills
+2023-06-20 10:09:06 - Updating Shop Kitchen
+2023-06-20 10:09:06 - Updating Corner Baths
+2023-06-20 10:09:06 - Updating Back to Wall Baths
+2023-06-20 10:09:06 - Updating Shop Bathrooms
+2023-06-20 10:09:06 - Updating Shop Laundry
+2023-06-20 10:09:06 - Updating Mega Menu - Featured Products
+2023-06-20 10:09:06 - Updating Featured Products
+2023-06-20 10:09:06 - Updating Shop Bathroom
+2023-06-20 10:09:06 - Updating Baths, bathrooms, Island Baths
+2023-06-20 10:09:06 - Updating Toilet Seats,Bathrooms
+2023-06-20 10:09:06 - Updating Wall Mixer
+2023-06-20 10:09:06 - Updating Basin Mixer Tap
+2023-06-20 10:09:06 - Updating Sink Mixer
+2023-06-20 10:09:06 - Updating Design Your Own Style
+2023-06-20 10:09:06 - Updating Clearance Sale
+2023-06-20 10:09:06 - Updating Matte Black
+2023-06-20 10:09:06 - Updating Black without taps
+2023-06-20 10:09:06 - Updating Brushed Nickel without taps
+2023-06-20 10:09:06 - Updating Argent Smart Toilets
+2023-06-20 10:09:06 - Updating wall-top-assemblies
+2023-06-20 10:09:06 - Updating Ready to Ship Toilets
+2023-06-20 10:09:06 - Updating Hot Water Spare Parts
+2023-06-20 10:09:06 - Updating Build Your Vanity
+2023-06-20 10:09:06 - Updating Kohler
+2023-06-20 10:09:06 - Updating Timberline Vanities
+2023-06-20 10:09:06 - Updating Marquis Vanities
+2023-06-20 10:09:06 - Updating Best Sellers
+2023-06-20 10:09:06 - Updating shop by specials
+2023-06-20 10:09:06 - Updating Rifco Vanities
+2023-06-20 10:09:06 - Updating Bath & Basin Mixers
+2023-06-20 10:09:06 - Updating ADP
+2023-06-20 10:09:06 - Updating Rinnai Heat Pumps
+2023-06-20 10:09:06 - Updating Kitchen & Laundry Wastes
+2023-06-20 10:09:06 - Updating Bath Wastes
+2023-06-20 10:09:06 - Updating Basin Wastes
+2023-06-20 10:09:06 - Updating Shower/Floor Wastes
+2023-06-20 10:09:06 - Updating Linear Wastes
+2023-06-20 10:09:06 - Updating Bath Tapware
+2023-06-20 10:09:06 - Updating Wastes, Grates & Bottle Traps
+2023-06-20 10:09:06 - Updating ADP Vanities
+2023-06-20 10:09:06 - Updating Caroma Smart Toilets
+2023-06-20 10:09:06 - Updating Rimless Toilets
+2023-06-20 10:09:06 - Updating dadoquartz
+2023-06-20 10:09:06 - Updating argent-special-offer-duracolour™
+2023-06-20 10:09:06 - Updating Compact Baths
+2023-06-20 10:09:06 - Updating Nevada Vanity Sizes
+2023-06-20 10:09:06 - Updating Freestanding Spa Baths
+2023-06-20 10:09:06 - Updating Inset Spa Baths
+2023-06-20 10:09:06 - Updating Drawer Vanities
+2023-06-20 10:09:06 - Updating Narrow Vanities
+2023-06-20 10:09:06 - Updating Vanity Samples
+2023-06-20 10:09:06 - Completed Processing
+2023-06-20 10:16:43 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:16:58 - New data from input_1.xlsx
+2023-06-20 10:17:00 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:17:01 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:17:02 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:17:03 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:17:04 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:17:05 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:17:05 - Completed Inventory Updates
+2023-06-20 10:17:05 - Completed Processing
+2023-06-20 10:18:30 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:18:54 - New data from input_1.xlsx
+2023-06-20 10:18:55 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:18:56 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:18:57 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:18:58 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:18:59 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:19:00 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:19:00 - Completed Inventory Updates
+2023-06-20 10:19:00 - Completed Processing
+2023-06-20 10:19:32 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:19:46 - New data from input_1.xlsx
+2023-06-20 10:19:47 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:19:48 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:19:49 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:19:50 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:19:51 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:19:51 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:19:52 - Completed Inventory Updates
+2023-06-20 10:19:52 - Completed Processing
+2023-06-20 10:39:25 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:39:36 - New data from input_1.xlsx
+2023-06-20 10:39:37 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:39:38 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:39:39 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:39:40 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:39:41 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:39:42 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:39:42 - Completed Inventory Updates
+2023-06-20 10:39:42 - Completed Processing
+2023-06-20 10:40:04 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:40:12 - New data from input_1.xlsx
+2023-06-20 10:40:14 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:40:14 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:40:15 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:40:16 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:40:17 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:40:18 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:40:18 - Completed Inventory Updates
+2023-06-20 10:40:19 - Completed Processing
+2023-06-20 10:44:08 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:44:23 - New data from input_1.xlsx
+2023-06-20 10:44:25 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:44:26 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:44:27 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:44:28 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:44:29 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:44:29 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:44:30 - Completed Inventory Updates
+2023-06-20 10:44:43 - Completed updates on Rose Gold
+2023-06-20 10:44:43 - Completed Processing
+2023-06-20 10:45:11 - New data from input_1.xlsx
+2023-06-20 10:45:13 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:45:14 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:45:15 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:45:15 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:45:16 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:45:17 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:45:18 - Completed Inventory Updates
+2023-06-20 10:45:31 - Completed updates on Rose Gold
+2023-06-20 10:45:31 - Completed Processing
+2023-06-20 10:53:17 - ****************************** Starting Stock Updater ******************************
+2023-06-20 10:53:31 - New data from input_1.xlsx
+2023-06-20 10:53:32 - Updated Product H55783Z00AU  -  {"inventory_item_id":42091130322988,"location_id":61292740652,"available":4,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091130322988"}
+2023-06-20 10:53:33 - Updated Product H55784Z00AU  -  {"inventory_item_id":42092240109612,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:22:21+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092240109612"}
+2023-06-20 10:53:34 - Updated Product H57783Z11AU  -  {"inventory_item_id":42092962840620,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42092962840620"}
+2023-06-20 10:53:35 - Updated Product H55783Z03AU  -  {"inventory_item_id":42091474780204,"location_id":61292740652,"available":2,"updated_at":"2023-06-20T08:21:40+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091474780204"}
+2023-06-20 10:53:36 - Updated Product H5E783Z00AU  -  {"inventory_item_id":42091330994220,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42091330994220"}
+2023-06-20 10:53:37 - Updated Product H5E783Z03AU  -  {"inventory_item_id":42090410934316,"location_id":61292740652,"available":2,"updated_at":"2023-06-05T13:00:15+10:00","admin_graphql_api_id":"gid://shopify/InventoryLevel/95605358636?inventory_item_id=42090410934316"}
+2023-06-20 10:53:38 - Completed Inventory Updates
+2023-06-20 10:53:38 - Updating Augmented Reality
+2023-06-20 10:53:58 - Completed updates on Augmented Reality
+2023-06-20 10:53:58 - Updating Duravit 15% Off Promotion
+2023-06-20 10:54:42 - Completed updates on Duravit 15% Off Promotion
+2023-06-20 10:54:42 - Updating Thermogroup
+2023-06-20 10:55:28 - Completed updates on Thermogroup
+2023-06-20 10:55:28 - Updating Argent Smart Toilet

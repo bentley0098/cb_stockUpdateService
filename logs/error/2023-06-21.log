@@ -1,0 +1,66 @@
+2023-06-21 09:01:10 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:02:04 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:02:08 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:05:56 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:05:59 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:06:02 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:07:18 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:08:42 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:08:45 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:08:48 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:09:35 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:11:41 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:11:44 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:13:58 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:16:36 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:16:39 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:21:05 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:21:08 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:22:08 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:22:12 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:26:15 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:28:21 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:32:16 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:33:19 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:44:17 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:46:08 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:48:41 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:50:30 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:55:49 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:58:24 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:58:28 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:59:16 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 09:59:19 - Error in Collection Update: TypeError: Cannot read properties of undefined (reading 'Variant SKU')
+2023-06-21 10:30:04 - Error in shopifyApi - getCollection:  TypeError: console.Console.log is not a function
+2023-06-21 15:58:44 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 400 (Bad Request)
+2023-06-21 16:14:52 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-21 16:24:57 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-21 16:24:58 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-21 16:24:58 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-21 16:24:59 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-21 16:26:46 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-21 16:26:49 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-21 16:28:23 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-21 16:28:25 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-21 16:42:18 - Error in shopifyApi - updateInventoryLevel:  RequestError: write EPROTO 13776:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+
+2023-06-21 16:44:49 - Error in shopifyApi - updateInventoryLevel:  RequestError: write EPROTO 13776:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+
+2023-06-21 16:46:47 - Error in shopifyApi - updateInventoryLevel:  RequestError: write EPROTO 13776:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+
+2023-06-21 16:58:12 - Error in shopifyApi - updateInventoryLevel:  RequestError: write EPROTO 13776:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+
+2023-06-21 18:06:48 - Error in shopifyApi - makeProductPlacementGraphQlCall:  HTTPError: Response code 504 (Gateway Timeout)
+2023-06-21 18:06:48 - Error in Collection Update: HTTPError: Response code 504 (Gateway Timeout)
+2023-06-21 18:21:35 - Error in shopifyApi - makeProductPlacementGraphQlCall:  HTTPError: Response code 504 (Gateway Timeout)
+2023-06-21 18:21:35 - Error in Collection Update: HTTPError: Response code 504 (Gateway Timeout)
+2023-06-21 19:08:44 - Error in shopifyApi - getCollection:  HTTPError: Response code 404 (Not Found)
+2023-06-21 19:08:44 - Error in Collection Update: HTTPError: Response code 404 (Not Found)
+2023-06-21 19:13:14 - Error in shopifyApi - makeProductPlacementGraphQlCall:  HTTPError: Response code 504 (Gateway Timeout)
+2023-06-21 19:13:14 - Error in Collection Update: HTTPError: Response code 504 (Gateway Timeout)
+2023-06-21 21:25:25 - Error in shopifyApi - makeProductPlacementGraphQlCall:  HTTPError: Response code 504 (Gateway Timeout)
+2023-06-21 21:25:25 - Error in Collection Update: HTTPError: Response code 504 (Gateway Timeout)
+2023-06-21 21:30:14 - Error in shopifyApi - makeProductPlacementGraphQlCall:  RequestError: write EPROTO 13776:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+
+2023-06-21 21:30:14 - Error in Collection Update: RequestError: write EPROTO 13776:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+

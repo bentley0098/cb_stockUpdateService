@@ -1,0 +1,4 @@
+2023-06-20 14:10:43 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 400 (Bad Request)
+2023-06-20 14:15:25 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-20 14:15:25 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
+2023-06-20 14:15:40 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 404 (Not Found)
