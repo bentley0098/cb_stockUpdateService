@@ -8,6 +8,7 @@ const updateCombined = require("./updateCombinedSKU");
 
 // Testing Location
 //const inventoryFilePath = path.join(__dirname, "../input-test/Inventory-count-1.xlsx");
+//const inventoryFilePath = path.join(__dirname, "../input-test/Backorder_tests.xlsx");
 // Live NavInventory Location
 const inventoryFilePath = "P:/Stk Cnt & Ord Sheets/NAVInventory.xlsx";
 
@@ -28,13 +29,14 @@ function start() {
 
         let noUpdatesCount = 0;
         let updatedCount = 0;
+
         for (let i = 0; i < inventoryData.length; i++) {
           const quantity = inventoryData[i]["Qty. Available"];
           const sku = String(inventoryData[i].SKU).trim();
-          const backorder = false;
+          let backorder = false;
 
           //set backorder = true for this product if that is the case in 'NAVInventory'
-          if (inventoryData[i].BACKORDER === 'Backorder') {
+          if (inventoryData[i].BACKORDER === "BACKORDER") {
             backorder = true;
           }
 
@@ -55,9 +57,14 @@ function start() {
                 currentProductIDs["Variant SKU"]
               }  -  ${JSON.stringify(result)}`
             );
-            
+
             // updateProduct updates the compare at price and adds tag 'on-back-order if necessary
-            await shopify.updateProduct(currentProductIDs.ID, sku, inventoryData[i].RRP, backorder);
+            await shopify.updateProduct(
+              currentProductIDs.ID,
+              sku,
+              inventoryData[i].RRP,
+              backorder
+            );
 
             updatedCount++;
           } else {
@@ -66,15 +73,13 @@ function start() {
         }
 
         // Update Inventory of Combined SKU's
-        try{
+        try {
           const combinedResult = await updateCombined.updateCombinedSKUs();
           logger.info(`updateCombinedSkus result: ${combinedResult}`);
           updatedCount = updatedCount + combinedResult;
-        } catch(err) {
+        } catch (err) {
           logger.error(`Error running updateCombinedSkus: - ${err}`);
         }
-
-
 
         logger.info(`${updatedCount} Products have been updated`);
         logger.info(`${noUpdatesCount} Products NOT updated`);
@@ -88,8 +93,6 @@ function start() {
             collection.Title
           );
         }
-
-        
 
         logger.info(`Completed Processing`);
       } catch (err) {

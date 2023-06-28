@@ -1,0 +1,14 @@
+2023-06-26 09:43:12 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 400 (Bad Request)
+2023-06-26 09:59:17 - Error updating product (shopifyAPI/updateProduct):  RequestError: write EPROTO 14632:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+
+2023-06-26 10:16:04 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 504 (Gateway Timeout)
+2023-06-26 10:26:24 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 504 (Gateway Timeout)
+2023-06-26 10:31:39 - Error in shopifyApi - updateInventoryLevel:  HTTPError: Response code 422 (Unprocessable Entity)
+2023-06-26 11:00:17 - Error updating product (shopifyAPI/updateProduct):  RequestError: write EPROTO 14632:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:c:\ws\deps\openssl\openssl\ssl\record\rec_layer_s3.c:1546:SSL alert number 40
+
+2023-06-26 11:04:39 - Backorder Msg: BACKORDER
+2023-06-26 11:04:39 - Backorder Msg: BACKORDER
+2023-06-26 11:35:50 - Error  -  TypeError: Assignment to constant variable.
+2023-06-26 11:36:01 - Error  -  TypeError: Assignment to constant variable.
+2023-06-26 11:36:09 - Error  -  TypeError: Assignment to constant variable.
+2023-06-26 11:36:11 - Error  -  TypeError: Assignment to constant variable.

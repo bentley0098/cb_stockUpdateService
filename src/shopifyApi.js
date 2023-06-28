@@ -9,6 +9,7 @@ const shopify = new Shopify({
   autoLimit: true,
 });
 
+
 async function updateInventoryLevel(ids, quantity) {
   try {
     const result = await shopify.inventoryLevel.set({
@@ -18,10 +19,11 @@ async function updateInventoryLevel(ids, quantity) {
     });
     return result;
   } catch (error) {
-    logger.error(`Error in shopifyApi - updateInventoryLevel:  ${error}`);
+    logger.error(`Error in shopifyApi - updateInventoryLevel(${ids["Variant SKU"]}):  ${error}`);
     return null;
   }
 }
+
 
 async function makeGraphQlCall(query) {
   try {
@@ -68,29 +70,37 @@ async function getCollection(id) {
 
 async function updateProduct(productId, sku, rrp, backorder) {
   try {
+    console.log(`ID: ${productId}, SKU: ${sku}, RRP: ${rrp}, Back Order: ${backorder}`);
     let roundedRRP = Math.round(rrp).toString();
     shopify.product
       .get(productId)
       .then((product) => {
 
+        // Update the 'on-back-order' tag
         if (backorder === true) {
           // Add the new tag to the existing tags
-          const tags = product.tags ? product.tags.split(",") : [];
+          let tags = product.tags ? product.tags.split(",") : [];
           tags.push("on-back-order");
           product.tags = tags.join(",");
+        } else {
+          // Remove the 'on-back-order' tag if it exists
+          let tags = product.tags ? product.tags.split(",") : [];
+          const index = tags.findIndex((tag) => tag.trim() === "on-back-order");
+          if (index !== -1) {
+            tags.splice(index, 1);
+            product.tags = tags.join(",");
+          }
         }
+
+
 
         for (variant of product.variants){
           // If SKU matches then set RRP to NAV's RRP
           if ( variant.sku === sku ) {
             variant.compare_at_price = roundedRRP;
-            //console.log(`SKU: ${variant.sku}`);
-            //console.log(`OLD Compare At: ${variant.compare_at_price}`);
-            //console.log(`RRP: ${roundedRRP}`);
           }
           
         }
-        //console.log(product);
         
         // Update the product with the updated tags & RRP
         return shopify.product.update(productId, product);
@@ -100,8 +110,8 @@ async function updateProduct(productId, sku, rrp, backorder) {
         console.log("(shopifyAPI/updateProduct) Updated -", updatedProduct.title);
       })
       .catch((err) => {
-        logger.error(`Error updating product (shopifyAPI/updateProduct):  ${err}`);
-        console.error("Error updating product (shopifyAPI/updateProduct):", err);
+        logger.error(`Error updating product (shopifyAPI/updateProduct) ${sku}:  ${err}`);
+        console.error("Error updating product (shopifyAPI/updateProduct): " + sku + ' : ' + err);
       });
   } catch (error) {
     logger.error(`Error in shopifyAPI - setToBackorder:  ${error}`);

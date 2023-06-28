@@ -30,6 +30,8 @@ async function updateCombinedSKUs() {
 
       // Find the lowest quantity of every SKU, set to 0 if individual sku not found or lowest is less than 0
       let lowestQty = 0;
+      let rrp = 0;
+      let isBackorder = false;
       separatedSKUs.forEach((sku, index) => {
         const inventoryObj = inventoryData.find((item) => item.SKU === sku);
         if (inventoryObj) {
@@ -38,6 +40,16 @@ async function updateCombinedSKUs() {
           } else if (inventoryObj["Qty. Available"] < lowestQty) {
             lowestQty = inventoryObj["Qty. Available"];
           }
+
+          // Flag if any are on 'Backorder' or not, and add together the RRP's
+          if (inventoryObj.BACKORDER === "BACKORDER") {
+            isBackorder = true;
+          }
+          rrp = rrp + Math.round(inventoryObj.RRP);
+
+          //console.log(`${index} Inventory Data: ${JSON.stringify(inventoryObj)}`);
+          //console.log(`rrp: ${rrp}`);
+          //console.log(`isBackorder: ${isBackorder}`);
         } else {
           lowestQty = 0;
         }
@@ -46,19 +58,29 @@ async function updateCombinedSKUs() {
         lowestQty = 0;
       }
       console.log(
-        `${JSON.stringify(combinedSKUs[i]['Variant SKU'])} - ${lowestQty}`
+        `${JSON.stringify(combinedSKUs[i]["Variant SKU"])} - ${lowestQty}`
       );
       // Set the combined SKU to that lowest qty
       let result = await shopify.updateInventoryLevel(
         combinedSKUs[i],
         lowestQty
       );
-      count++;
+
       logger.info(
-        `Updated Product ${combinedSKUs[i]["Variant SKU"]}  -  ${JSON.stringify(
-          result
-        )}`
+        `Updated Inventory ${
+          combinedSKUs[i]["Variant SKU"]
+        }  -  ${JSON.stringify(result)}`
       );
+
+      // Update Backorder tag and RRP on Combined SKU
+      await shopify.updateProduct(
+        combinedSKUs[i].ID,
+        combinedSKUs[i]["Variant SKU"],
+        rrp,
+        isBackorder
+      );
+
+      count++;
     }
 
     return count;
@@ -68,8 +90,6 @@ async function updateCombinedSKUs() {
     return error;
   }
 }
-
-
 
 module.exports = {
   updateCombinedSKUs,
